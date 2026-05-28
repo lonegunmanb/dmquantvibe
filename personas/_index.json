@@ -216,7 +216,7 @@
     "skeleton_hash": "495d22ac"
   },
   "Data Scientist (数据科学家)": {
-    "expertise": "Owns the institute's shared-data layer: ingest authoritative market / macro / flow numerics into shared-data/<date>/<topic>.json daily; audit how analysts consume data; flag misuse; propose catalog additions. Anchors the INPUT side of report quality, complementing QA Manager (OUTPUT audit) and Institute Diagnostician (fleet health)..",
+    "expertise": "Owns the institute's shared-data layer: ingest authoritative market / macro / flow numerics into shared-data/<date>/<topic>.json daily; audit how analysts consume data; flag misuse; propose catalog additions. Anchors the INPUT side of report quality, complementing QA Manager (OUTPUT audit) and Institute Diagnostician (fleet health).",
     "runs": 3,
     "file": "Data_Scientist_数据科学家.md",
     "versions": [
