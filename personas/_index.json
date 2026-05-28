@@ -1,0 +1,398 @@
+{
+  "ESG Analyst (ESG分析师)": {
+    "expertise": "ESG scoring, carbon neutrality, green finance, CSR.",
+    "runs": 16,
+    "file": "ESG_Analyst_ESG分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "f7c410ae",
+        "runs": 16
+      }
+    ],
+    "skeleton_hash": "f7c410ae"
+  },
+  "Thematic Researcher (主题研究员)": {
+    "expertise": "AI, quantum, biotech, space economy, Web3.",
+    "runs": 6,
+    "file": "Thematic_Researcher_主题研究员.md",
+    "versions": [
+      {
+        "skeleton_hash": "445da909",
+        "runs": 6
+      }
+    ],
+    "skeleton_hash": "445da909"
+  },
+  "Policy Analyst (政策分析师)": {
+    "expertise": "Regulatory policy, carbon neutrality, green finance, geopolitics, sanctions & export controls, tariff frameworks.",
+    "runs": 6,
+    "file": "Policy_Analyst_政策分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "ff5bb10f",
+        "runs": 6
+      }
+    ],
+    "skeleton_hash": "ff5bb10f"
+  },
+  "Auto Analyst (汽车行业分析师)": {
+    "expertise": "NEV, autonomous driving, parts, overseas expansion.",
+    "runs": 2,
+    "file": "Auto_Analyst_汽车行业分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "ea0d87af",
+        "runs": 2
+      }
+    ],
+    "skeleton_hash": "ea0d87af"
+  },
+  "Chief Quant (首席量化师)": {
+    "expertise": "Multi-factor models, alpha mining, strategy portfolio.",
+    "runs": 7,
+    "file": "Chief_Quant_首席量化师.md",
+    "versions": [
+      {
+        "skeleton_hash": "ce673031",
+        "runs": 7
+      }
+    ],
+    "skeleton_hash": "ce673031"
+  },
+  "Bond Analyst (债券分析师)": {
+    "expertise": "Rates, credit, yield curve, duration management.",
+    "runs": 13,
+    "file": "Bond_Analyst_债券分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "d881e755",
+        "runs": 13
+      }
+    ],
+    "skeleton_hash": "d881e755"
+  },
+  "Derivatives Strategist (衍生品策略师)": {
+    "expertise": "Options strategies, futures arbitrage, volatility trading.",
+    "runs": 9,
+    "file": "Derivatives_Strategist_衍生品策略师.md",
+    "versions": [
+      {
+        "skeleton_hash": "bcb5df52",
+        "runs": 9
+      }
+    ],
+    "skeleton_hash": "bcb5df52"
+  },
+  "China Macro Analyst (中国宏观分析师)": {
+    "expertise": "China economic data, policy interpretation, A-share macro drivers.",
+    "runs": 48,
+    "file": "China_Macro_Analyst_中国宏观分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "2b5a51ea",
+        "runs": 48
+      }
+    ],
+    "skeleton_hash": "2b5a51ea"
+  },
+  "Global Macro Analyst (全球宏观分析师)": {
+    "expertise": "US/EU/Japan economy, global trade, geopolitical risks.",
+    "runs": 64,
+    "file": "Global_Macro_Analyst_全球宏观分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "d6b5dbf2",
+        "runs": 64
+      }
+    ],
+    "skeleton_hash": "d6b5dbf2"
+  },
+  "FX Strategist (外汇策略师)": {
+    "expertise": "CNY/USD/EUR/JPY trends, carry trades, FX risk.",
+    "runs": 12,
+    "file": "FX_Strategist_外汇策略师.md",
+    "versions": [
+      {
+        "skeleton_hash": "e7eb60af",
+        "runs": 12
+      }
+    ],
+    "skeleton_hash": "e7eb60af"
+  },
+  "Asset Allocator (大类资产配置师)": {
+    "expertise": "Equity/bond/commodity allocation, risk parity, all-weather.",
+    "runs": 2,
+    "file": "Asset_Allocator_大类资产配置师.md",
+    "versions": [
+      {
+        "skeleton_hash": "f23650b3",
+        "runs": 2
+      }
+    ],
+    "skeleton_hash": "f23650b3"
+  },
+  "Chief Economist (首席经济学家)": {
+    "expertise": "Global macro cycles, GDP/CPI/PMI forecasting, central bank policy.",
+    "runs": 13,
+    "file": "Chief_Economist_首席经济学家.md",
+    "versions": [
+      {
+        "skeleton_hash": "f4ce0f6c",
+        "runs": 13
+      }
+    ],
+    "skeleton_hash": "f4ce0f6c"
+  },
+  "Alt Data Analyst (另类数据分析师)": {
+    "expertise": "Satellite data, credit card spending, app usage, supply chain.",
+    "runs": 2,
+    "file": "Alt_Data_Analyst_另类数据分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "7736d681",
+        "runs": 2
+      }
+    ],
+    "skeleton_hash": "7736d681"
+  },
+  "Sentiment Analyst (市场情绪师)": {
+    "expertise": "Fear-greed index, fund flows, investor behavior.",
+    "runs": 1,
+    "file": "Sentiment_Analyst_市场情绪师.md",
+    "versions": [
+      {
+        "skeleton_hash": "68f28256",
+        "runs": 1
+      }
+    ],
+    "skeleton_hash": "68f28256"
+  },
+  "Social Media Analyst (社交媒体分析师)": {
+    "expertise": "Xueqiu, Eastmoney, Weibo sentiment, trending topics.",
+    "runs": 1,
+    "file": "Social_Media_Analyst_社交媒体分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "2a8f40b1",
+        "runs": 1
+      }
+    ],
+    "skeleton_hash": "2a8f40b1"
+  },
+  "A-Share Strategist (A股策略师)": {
+    "expertise": "SSE/SZSE market structure, margin data, lockup expiry.",
+    "runs": 37,
+    "file": "A-Share_Strategist_A股策略师.md",
+    "versions": [
+      {
+        "skeleton_hash": "1e4690d8",
+        "runs": 37
+      }
+    ],
+    "skeleton_hash": "1e4690d8"
+  },
+  "HK/US Strategist (港美股策略师)": {
+    "expertise": "HK Connect, ADRs, US tech sector.",
+    "runs": 2,
+    "file": "HK_US_Strategist_港美股策略师.md",
+    "versions": [
+      {
+        "skeleton_hash": "1b4d307d",
+        "runs": 2
+      }
+    ],
+    "skeleton_hash": "1b4d307d"
+  },
+  "Chief Strategist (首席策略师)": {
+    "expertise": "A-share strategy, style rotation, sector allocation.",
+    "runs": 81,
+    "file": "Chief_Strategist_首席策略师.md",
+    "versions": [
+      {
+        "skeleton_hash": "495d22ac",
+        "runs": 81
+      }
+    ],
+    "skeleton_hash": "495d22ac"
+  },
+  "Data Scientist (数据科学家)": {
+    "expertise": "Owns the institute's shared-data layer: ingest authoritative market / macro / flow numerics into shared-data/<date>/<topic>.json daily; audit how analysts consume data; flag misuse; propose catalog additions. Anchors the INPUT side of report quality, complementing QA Manager (OUTPUT audit) and Institute Diagnostician (fleet health)..",
+    "runs": 3,
+    "file": "Data_Scientist_数据科学家.md",
+    "versions": [
+      {
+        "skeleton_hash": "14584a82",
+        "runs": 3
+      }
+    ],
+    "skeleton_hash": "14584a82"
+  },
+  "TMT Analyst (TMT行业分析师)": {
+    "expertise": "Semiconductors, AI, cloud, consumer electronics, internet.",
+    "runs": 43,
+    "file": "TMT_Analyst_TMT行业分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "aed1b71b",
+        "runs": 43
+      }
+    ],
+    "skeleton_hash": "aed1b71b"
+  },
+  "Utilities Analyst (公用事业分析师)": {
+    "expertise": "Power, water, environmental, carbon trading.",
+    "runs": 6,
+    "file": "Utilities_Analyst_公用事业分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "7d16bea1",
+        "runs": 6
+      }
+    ],
+    "skeleton_hash": "7d16bea1"
+  },
+  "Healthcare Analyst (医药行业分析师)": {
+    "expertise": "Innovative drugs, CXO, medical devices, procurement policy.",
+    "runs": 2,
+    "file": "Healthcare_Analyst_医药行业分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "8fa6b46a",
+        "runs": 2
+      }
+    ],
+    "skeleton_hash": "8fa6b46a"
+  },
+  "Industrials Analyst (工业制造分析师)": {
+    "expertise": "Advanced manufacturing, defense, machinery, aerospace.",
+    "runs": 4,
+    "file": "Industrials_Analyst_工业制造分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "7395567a",
+        "runs": 4
+      }
+    ],
+    "skeleton_hash": "7395567a"
+  },
+  "Real Estate Analyst (房地产分析师)": {
+    "expertise": "Property sales, land auctions, policy, REITs.",
+    "runs": 1,
+    "file": "Real_Estate_Analyst_房地产分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "97a352ef",
+        "runs": 1
+      }
+    ],
+    "skeleton_hash": "97a352ef"
+  },
+  "Materials Analyst (材料行业分析师)": {
+    "expertise": "Steel, chemicals, non-ferrous metals, battery materials.",
+    "runs": 3,
+    "file": "Materials_Analyst_材料行业分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "2243c438",
+        "runs": 3
+      }
+    ],
+    "skeleton_hash": "2243c438"
+  },
+  "Consumer Analyst (消费行业分析师)": {
+    "expertise": "Baijiu, F&B, retail, branded consumer goods.",
+    "runs": 10,
+    "file": "Consumer_Analyst_消费行业分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "18e262ae",
+        "runs": 10
+      }
+    ],
+    "skeleton_hash": "18e262ae"
+  },
+  "Energy Analyst (能源行业分析师)": {
+    "expertise": "Oil, gas, coal, renewables, power generation.",
+    "runs": 14,
+    "file": "Energy_Analyst_能源行业分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "8cc2d878",
+        "runs": 14
+      }
+    ],
+    "skeleton_hash": "8cc2d878"
+  },
+  "Financials Analyst (金融行业分析师)": {
+    "expertise": "Banks, insurance, brokers, fintech.",
+    "runs": 5,
+    "file": "Financials_Analyst_金融行业分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "5f606ee8",
+        "runs": 5
+      }
+    ],
+    "skeleton_hash": "5f606ee8"
+  },
+  "Factor Analyst (因子研究员)": {
+    "expertise": "Value, momentum, quality, volatility factors.",
+    "runs": 3,
+    "file": "Factor_Analyst_因子研究员.md",
+    "versions": [
+      {
+        "skeleton_hash": "a6a8f091",
+        "runs": 3
+      }
+    ],
+    "skeleton_hash": "a6a8f091"
+  },
+  "Technical Analyst (技术分析师)": {
+    "expertise": "Chart patterns, MA systems, volume-price, Elliott waves.",
+    "runs": 1,
+    "file": "Technical_Analyst_技术分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "c9f4f7ff",
+        "runs": 1
+      }
+    ],
+    "skeleton_hash": "c9f4f7ff"
+  },
+  "Credit Analyst (信用分析师)": {
+    "expertise": "Credit ratings, default warnings, LGFV bonds, property bonds.",
+    "runs": 6,
+    "file": "Credit_Analyst_信用分析师.md",
+    "versions": [
+      {
+        "skeleton_hash": "d3689ba3",
+        "runs": 6
+      }
+    ],
+    "skeleton_hash": "d3689ba3"
+  },
+  "Compliance Officer (合规官)": {
+    "expertise": "Regulatory policy, trading compliance, disclosure, insider trading.",
+    "runs": 1,
+    "file": "Compliance_Officer_合规官.md",
+    "versions": [
+      {
+        "skeleton_hash": "462cad7f",
+        "runs": 1
+      }
+    ],
+    "skeleton_hash": "462cad7f"
+  },
+  "Chief Risk Officer (首席风控官)": {
+    "expertise": "Portfolio risk, stress tests, VaR, tail risk.",
+    "runs": 5,
+    "file": "Chief_Risk_Officer_首席风控官.md",
+    "versions": [
+      {
+        "skeleton_hash": "099b9243",
+        "runs": 5
+      }
+    ],
+    "skeleton_hash": "099b9243"
+  }
+}
