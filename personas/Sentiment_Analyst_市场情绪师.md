@@ -3,12 +3,17 @@
 **Expertise:** Fear-greed index, fund flows, investor behavior.
 
 **Mailbox runs:** 1
+**Prompt versions:** 1
 
-## Prompt skeleton
+Each prompt version below preserves the original `# Task` section from its mailbox input so every archived prompt can be traced back to its source run.
 
-**Skeleton hash:** `68f28256` (based on 1 mailbox runs)
+## Full prompt
 
-```text
+**Prompt hash:** `0c597384` (based on 1 mailbox run)
+
+**Task summary:** # Incoming coordination request from Social Media Analyst
+
+````text
 # Step −1 — Anchor today's date BEFORE you start
 
 Run this in your shell and record the result:
@@ -34,7 +39,15 @@ Fear-greed index, fund flows, investor behavior.
 - Do NOT echo the deliverables' full content in your chat reply. The reply is the confirmation line only; the deliverables live in the files.
 
 # Task
-[task-specific context removed]
+# Incoming coordination request from Social Media Analyst
+Source workflow: 社交媒体分析师 · 午盘社媒动量 (analyst:social-media-analyst:topic_pitch_midday)
+Source run: bce4a1ca-16b1-4939-bf39-1b1f46a29506
+
+# The question
+请针对今日早盘科创板及主板的ETF赎回数据与社交媒体散户情绪进行交叉校验，测算当前的“筹码交换”比率及其对本周后续波动的潜在影响。
+
+# Your task
+Investigate the question above using your domain expertise. Produce a focused, evidence-backed answer suitable for the requesting analyst's next step. Lead with conclusions; back them with specific data, source citations, and concrete numbers where possible.
 
 # Output Format
 - Write BOTH `handoff_response.md` and `handoff_response.en.md` using structured Markdown: clear headings, prioritised conclusions, supporting tables, follow-up items.
@@ -50,8 +63,8 @@ Fear-greed index, fund flows, investor behavior.
 # Workspace Robustness
 - BEFORE running your task, try to read any files this prompt references (using your workspace-list / read-file tool). If a referenced file is missing because an earlier step failed to write it, do NOT abort. Search the conversation context above for the prior step's full output and use that as the source. State explicitly in your confirmation line which referenced files were missing and reconstructed from context.
 - Continue and complete this step's deliverable regardless of upstream file gaps. Always write your own declared output file even if upstream files were missing.
-```
+````
 
-### Sample runs
+### Source mailbox runs
 
 - `AI Institute/Mailbox/情绪与另类数据/市场情绪师/2026-05-11 - auto-handoff 筹码交换比率分析 - 9fe03dc3.md`

@@ -3,396 +3,3680 @@
     "expertise": "ESG scoring, carbon neutrality, green finance, CSR.",
     "runs": 16,
     "file": "ESG_Analyst_ESG分析师.md",
+    "prompt_versions": 16,
     "versions": [
       {
-        "skeleton_hash": "f7c410ae",
-        "runs": 16
+        "prompt_hash": "a3ffa8a9",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Compliance Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-10 - auto-handoff ESMA naming rules replace public-summary AUM flow estimates wit - f57de333.md"
+        ]
+      },
+      {
+        "prompt_hash": "4a90ba8c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Factor Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff CEA 价格口径对齐 - 855e96e8.md"
+        ]
+      },
+      {
+        "prompt_hash": "443870b4",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Industrials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff CEA 价格口径对齐 - e352fa62.md"
+        ]
+      },
+      {
+        "prompt_hash": "be561465",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Research Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff CEA 价格口径澄清 - 4ed35233.md"
+        ]
+      },
+      {
+        "prompt_hash": "b448be58",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Compliance Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff CEA 价格口径澄清 - 8078c710.md"
+        ]
+      },
+      {
+        "prompt_hash": "1720df67",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff CEA 价格口径澄清 - ba8d5b66.md"
+        ]
+      },
+      {
+        "prompt_hash": "da1c352b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Asset Allocator",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff CEA 价格口径澄清 - fd8c274e.md"
+        ]
+      },
+      {
+        "prompt_hash": "3bb1e422",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Committee Chair",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff CEA 价格口径裁定 - d550fe7a.md"
+        ]
+      },
+      {
+        "prompt_hash": "d4a07409",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from QA Manager",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff CEA 现货价 114.6 口径澄清 - 1caa5fb7.md"
+        ]
+      },
+      {
+        "prompt_hash": "eedd2c86",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Convertible Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff CEA 现货价 80.06 vs 114.6 元 吨口径裁定 - 268781c9.md"
+        ]
+      },
+      {
+        "prompt_hash": "e0b73f44",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff CEA 碳价口径唯一化裁定 - 75a5eae8.md"
+        ]
+      },
+      {
+        "prompt_hash": "0dd0fd7c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff CEA 碳价口径裁定 - e91124a7.md"
+        ]
+      },
+      {
+        "prompt_hash": "e81c4cbf",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Real Estate Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff CEA碳价口径澄清 - 65479e65.md"
+        ]
+      },
+      {
+        "prompt_hash": "b2891bad",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Agriculture Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff 全国碳市场 CEA 价格口径核 - c35f4857.md"
+        ]
+      },
+      {
+        "prompt_hash": "c4d3f882",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Utilities Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff 全国碳市场 CEA 价格口径紧 - 4b472029.md"
+        ]
+      },
+      {
+        "prompt_hash": "ad622f83",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Auto Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/ESG分析师/2026-05-11 - auto-handoff 碳价口径澄清 - 7a4cff54.md"
+        ]
       }
-    ],
-    "skeleton_hash": "f7c410ae"
+    ]
   },
   "Thematic Researcher (主题研究员)": {
     "expertise": "AI, quantum, biotech, space economy, Web3.",
     "runs": 6,
     "file": "Thematic_Researcher_主题研究员.md",
+    "prompt_versions": 5,
     "versions": [
       {
-        "skeleton_hash": "445da909",
-        "runs": 6
+        "prompt_hash": "fa6e7482",
+        "runs": 2,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/主题研究员/2026-05-10 - auto-handoff AI app share migration mapping - 3b67950e.md",
+          "AI Institute/Mailbox/ESG与主题/主题研究员/2026-05-10 - auto-handoff Map AI app share migration to revenue sensitivity - ef65230c.md"
+        ]
+      },
+      {
+        "prompt_hash": "f2303829",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Compliance Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/主题研究员/2026-05-10 - auto-handoff Panuwat appeal status at Ninth Circuit and shadow-trading red-l - 61d2677e.md"
+        ]
+      },
+      {
+        "prompt_hash": "73d9e48a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from HK/US Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/主题研究员/2026-05-11 - auto-handoff AI投资回报率深度调研 - 55989032.md"
+        ]
+      },
+      {
+        "prompt_hash": "d26ccd5f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from HK/US Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/主题研究员/2026-05-11 - auto-handoff Deep Dive into AI ROI - 4d228ce8.md"
+        ]
+      },
+      {
+        "prompt_hash": "bcf622f5",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Utilities Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/主题研究员/2026-05-13 - auto-handoff 美东 ERCOT 被延迟 18 - 929fda30.md"
+        ]
       }
-    ],
-    "skeleton_hash": "445da909"
+    ]
   },
   "Policy Analyst (政策分析师)": {
     "expertise": "Regulatory policy, carbon neutrality, green finance, geopolitics, sanctions & export controls, tariff frameworks.",
     "runs": 6,
     "file": "Policy_Analyst_政策分析师.md",
+    "prompt_versions": 6,
     "versions": [
       {
-        "skeleton_hash": "ff5bb10f",
-        "runs": 6
+        "prompt_hash": "2aeae119",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Energy Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/政策分析师/2026-05-14 - auto-handoff Beijing Summit Oil Transit - c458f76f.md"
+        ]
+      },
+      {
+        "prompt_hash": "885f520d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Utilities Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/政策分析师/2026-05-14 - auto-handoff Upward Adjustment of Paid Allocation Ratio - e3f68349.md"
+        ]
+      },
+      {
+        "prompt_hash": "440e4057",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Global Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/政策分析师/2026-05-14 - auto-handoff 中美高层会晤经贸预期 - 5ec853f6.md"
+        ]
+      },
+      {
+        "prompt_hash": "0ab732bc",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/政策分析师/2026-05-14 - auto-handoff 华许确认进度与独立性评估 - 973a186d.md"
+        ]
+      },
+      {
+        "prompt_hash": "5cddc89f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Utilities Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/政策分析师/2026-05-14 - auto-handoff 碳配额有偿分配比例调增 - 9593a0d1.md"
+        ]
+      },
+      {
+        "prompt_hash": "9b3aea12",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from China Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/ESG与主题/政策分析师/2026-05-14 - auto-handoff 算电协同与碳配额政策 - 1d145b17.md"
+        ]
       }
-    ],
-    "skeleton_hash": "ff5bb10f"
+    ]
   },
   "Auto Analyst (汽车行业分析师)": {
     "expertise": "NEV, autonomous driving, parts, overseas expansion.",
     "runs": 2,
     "file": "Auto_Analyst_汽车行业分析师.md",
+    "prompt_versions": 2,
     "versions": [
       {
-        "skeleton_hash": "ea0d87af",
-        "runs": 2
+        "prompt_hash": "da8d6d01",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/Unknown Analyst Level/auto-analyst/2026-05-13 - auto-handoff NEV批零差对电池材料排产的含 - fd4cdd23.md"
+        ]
+      },
+      {
+        "prompt_hash": "48a72c70",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/汽车行业分析师/2026-05-11 - auto-handoff 800V 高镍三元 2026 装机量 - 8f23ad66.md"
+        ]
       }
-    ],
-    "skeleton_hash": "ea0d87af"
+    ]
   },
   "Chief Quant (首席量化师)": {
     "expertise": "Multi-factor models, alpha mining, strategy portfolio.",
     "runs": 7,
     "file": "Chief_Quant_首席量化师.md",
+    "prompt_versions": 7,
     "versions": [
       {
-        "skeleton_hash": "ce673031",
-        "runs": 7
+        "prompt_hash": "3a24971e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/Unknown Analyst Level/chief-quant/2026-05-13 - auto-handoff AI 11 集中度风险分解 - ce830a82.md"
+        ]
+      },
+      {
+        "prompt_hash": "73f8a24e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/量化与技术/首席量化师/2026-05-10 - auto-handoff AI Capex 乘数效应因子 - d5c1e969.md"
+        ]
+      },
+      {
+        "prompt_hash": "82a4289e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Risk Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/量化与技术/首席量化师/2026-05-10 - auto-handoff Recalculate VaR and stress tests with live holdings - 38e4bfdc.md"
+        ]
+      },
+      {
+        "prompt_hash": "255d9776",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Algo Trader",
+        "sample_runs": [
+          "AI Institute/Mailbox/量化与技术/首席量化师/2026-05-10 - auto-handoff TAQ LOB 数据缺失补齐 - adec0e11.md"
+        ]
+      },
+      {
+        "prompt_hash": "a9fe495b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Risk Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/量化与技术/首席量化师/2026-05-10 - auto-handoff 用真实组合重算 VaR 和压力 - 540e752f.md"
+        ]
+      },
+      {
+        "prompt_hash": "6eab35ae",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/量化与技术/首席量化师/2026-05-11 - auto-handoff 杠杆资金风险测算 - 9a8063f3.md"
+        ]
+      },
+      {
+        "prompt_hash": "392fa974",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/量化与技术/首席量化师/2026-05-11 - auto-handoff 量子纠错概念的因子暴露 - ab328ebf.md"
+        ]
       }
-    ],
-    "skeleton_hash": "ce673031"
+    ]
   },
   "Bond Analyst (债券分析师)": {
     "expertise": "Rates, credit, yield curve, duration management.",
     "runs": 13,
     "file": "Bond_Analyst_债券分析师.md",
+    "prompt_versions": 13,
     "versions": [
       {
-        "skeleton_hash": "d881e755",
-        "runs": 13
+        "prompt_hash": "b1cfd8bd",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/债券分析师/2026-05-10 - auto-handoff JGB Yield Upside Pressure - e9e73251.md"
+        ]
+      },
+      {
+        "prompt_hash": "2ceb91c7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/债券分析师/2026-05-10 - auto-handoff Japan MoF intervention operations evidence - 534541d4.md"
+        ]
+      },
+      {
+        "prompt_hash": "f516ef54",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/债券分析师/2026-05-10 - auto-handoff 日债收益率上行压力 - 9a9b46b2.md"
+        ]
+      },
+      {
+        "prompt_hash": "c719f5d6",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from China Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/债券分析师/2026-05-11 - auto-handoff LGFV Commercial Transformation Pricing - 76ff54c6.md"
+        ]
+      },
+      {
+        "prompt_hash": "f091ebaa",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Financials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/债券分析师/2026-05-11 - auto-handoff LPR stability in May-June 2026 - e6583c59.md"
+        ]
+      },
+      {
+        "prompt_hash": "05f50479",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from China Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/债券分析师/2026-05-11 - auto-handoff 城投债商业化转型定价 - 6f401d3e.md"
+        ]
+      },
+      {
+        "prompt_hash": "ffd4cc17",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Credit Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/债券分析师/2026-05-11 - auto-handoff 城投离岸债监管影响 - eae32b95.md"
+        ]
+      },
+      {
+        "prompt_hash": "fe7c5682",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Credit Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/债券分析师/2026-05-11 - auto-handoff 城投非标传导路径 - 991460e1.md"
+        ]
+      },
+      {
+        "prompt_hash": "f2acd008",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Global Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/债券分析师/2026-05-11 - auto-handoff 短期美债招标观察 - 699f9c1b.md"
+        ]
+      },
+      {
+        "prompt_hash": "1168dbce",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Economist",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/债券分析师/2026-05-11 - auto-handoff 美联储主席换届下的美债期限利差 - 5efd7463.md"
+        ]
+      },
+      {
+        "prompt_hash": "ee08ea24",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Global Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/债券分析师/2026-05-13 - auto-handoff 30Y Bond Auction Sensitivity - d158da99.md"
+        ]
+      },
+      {
+        "prompt_hash": "58bc72ea",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/债券分析师/2026-05-14 - auto-handoff 10Y Yield 4.5 Resistance Stress Test - bdc8c906.md"
+        ]
+      },
+      {
+        "prompt_hash": "763c654f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/债券分析师/2026-05-14 - auto-handoff 10年期美债收益率 4.5 - 5ac75cdf.md"
+        ]
       }
-    ],
-    "skeleton_hash": "d881e755"
+    ]
   },
   "Derivatives Strategist (衍生品策略师)": {
     "expertise": "Options strategies, futures arbitrage, volatility trading.",
     "runs": 9,
     "file": "Derivatives_Strategist_衍生品策略师.md",
+    "prompt_versions": 9,
     "versions": [
       {
-        "skeleton_hash": "bcb5df52",
-        "runs": 9
+        "prompt_hash": "03182ec3",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/衍生品策略师/2026-05-10 - auto-handoff Gamma Suppression Quant - e6bfc5ad.md"
+        ]
+      },
+      {
+        "prompt_hash": "92256397",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/衍生品策略师/2026-05-10 - auto-handoff Gamma 抑制效应测算 - 81f8d6ef.md"
+        ]
+      },
+      {
+        "prompt_hash": "2cb453da",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Risk Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/衍生品策略师/2026-05-10 - auto-handoff Validate semiconductor event risk in options pricing - e9afa80e.md"
+        ]
+      },
+      {
+        "prompt_hash": "ba2e0095",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Risk Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/衍生品策略师/2026-05-10 - auto-handoff 验证半导体事件风险的期权定价 - 1e4397a7.md"
+        ]
+      },
+      {
+        "prompt_hash": "9c933109",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/衍生品策略师/2026-05-12 - auto-handoff Gamma Exposure Stress Test - 03294202.md"
+        ]
+      },
+      {
+        "prompt_hash": "0fb17af0",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/衍生品策略师/2026-05-12 - auto-handoff SPX PCR 1.29 对冲结构分析 - daedeeb0.md"
+        ]
+      },
+      {
+        "prompt_hash": "43232fba",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/衍生品策略师/2026-05-12 - auto-handoff 伽马敞口压力测试 - 6ae1ec3f.md"
+        ]
+      },
+      {
+        "prompt_hash": "b7f4478f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/衍生品策略师/2026-05-13 - auto-handoff SPX Put Call Divergence - 01c4c38b.md"
+        ]
+      },
+      {
+        "prompt_hash": "05a4e6d1",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/固收与衍生品/衍生品策略师/2026-05-13 - auto-handoff SPX 认沽 认购比背离 - abb898e1.md"
+        ]
       }
-    ],
-    "skeleton_hash": "bcb5df52"
+    ]
   },
   "China Macro Analyst (中国宏观分析师)": {
     "expertise": "China economic data, policy interpretation, A-share macro drivers.",
     "runs": 48,
     "file": "China_Macro_Analyst_中国宏观分析师.md",
+    "prompt_versions": 48,
     "versions": [
       {
-        "skeleton_hash": "2b5a51ea",
-        "runs": 48
+        "prompt_hash": "1d4338c8",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Factor Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-09 - auto-handoff A股非制造业PMI跌入收缩（4 - dc56b611.md"
+        ]
+      },
+      {
+        "prompt_hash": "cefa5e72",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Real Estate Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-09 - auto-handoff 专项债收储规模可行性 - a9e39e97.md"
+        ]
+      },
+      {
+        "prompt_hash": "cfe7f1d6",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Financials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-10 - auto-handoff 4 月官方 PMI 与金融板块 - 9001c430.md"
+        ]
+      },
+      {
+        "prompt_hash": "db8c0897",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-10 - auto-handoff 4月PMI 50.3与化工 钢 - 4d72f60b.md"
+        ]
+      },
+      {
+        "prompt_hash": "52648c71",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-10 - auto-handoff 4月新出口订单50.3信号强度 - b2a3b05b.md"
+        ]
+      },
+      {
+        "prompt_hash": "95240c2c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Credit Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-10 - auto-handoff 5 月美联储 FOMC 鸽 鹰 - 2f6ee673.md"
+        ]
+      },
+      {
+        "prompt_hash": "95cddc9c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Auto Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-10 - auto-handoff Auto Export Impact - 6e5d4bba.md"
+        ]
+      },
+      {
+        "prompt_hash": "bde61ae8",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-10 - auto-handoff China post-holiday fixing monitoring - 88729e86.md"
+        ]
+      },
+      {
+        "prompt_hash": "a348bcf5",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Economist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-10 - auto-handoff Confirm April China manufacturing PMI reading and correct direc - c54dd808.md"
+        ]
+      },
+      {
+        "prompt_hash": "dc40b4f7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-10 - auto-handoff 中国高新制造业电力数据核实 - d78ca4cf.md"
+        ]
+      },
+      {
+        "prompt_hash": "88257382",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Economist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-10 - auto-handoff 出口韧性可持续性评估 - 25c5cf9d.md"
+        ]
+      },
+      {
+        "prompt_hash": "84cc1901",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Research Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-10 - auto-handoff 补齐中国 4 月物价与高频验证 - 5b4cf9f7.md"
+        ]
+      },
+      {
+        "prompt_hash": "7cad251d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Technical Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff 15th Five-Year Plan Policy Impact - 734a99cb.md"
+        ]
+      },
+      {
+        "prompt_hash": "ab82906e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Technical Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff 15五计划政策利好落地 - b92e8ab4.md"
+        ]
+      },
+      {
+        "prompt_hash": "d472e098",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Convertible Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff 5-12 13 窗口的国内流动 - cc55212c.md"
+        ]
+      },
+      {
+        "prompt_hash": "37636280",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from HK/US Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff CPI PPI Data Review - 4219ed2d.md"
+        ]
+      },
+      {
+        "prompt_hash": "7fab6117",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from HK/US Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff CPI PPI Data Review - a7ee5764.md"
+        ]
+      },
+      {
+        "prompt_hash": "760b5dbb",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff Export Data Resilience - 958ea3fd.md"
+        ]
+      },
+      {
+        "prompt_hash": "afc51f43",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff GDP 数据与估值锚点 - 3d11eaec.md"
+        ]
+      },
+      {
+        "prompt_hash": "9e9be6eb",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff Summit Policy Scenario Analysis - b1ee58ec.md"
+        ]
+      },
+      {
+        "prompt_hash": "085aa79f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff Trump Visit Tech Impact - 8656a163.md"
+        ]
+      },
+      {
+        "prompt_hash": "1a77dbef",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Credit Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff 低利率环境持续性 - 0dabb4b0.md"
+        ]
+      },
+      {
+        "prompt_hash": "ad15d541",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Agriculture Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff 农业化债与基建杠杆 - 404d2dc7.md"
+        ]
+      },
+      {
+        "prompt_hash": "40c5ba18",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Credit Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff 地方化债政策窗口与城投短端利差 - d7c686cc.md"
+        ]
+      },
+      {
+        "prompt_hash": "e27d0105",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff 峰会政策情景分析 - fbbbd179.md"
+        ]
+      },
+      {
+        "prompt_hash": "e06b7801",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff 独立储能 IRR 与 2026 - 90b7f334.md"
+        ]
+      },
+      {
+        "prompt_hash": "6ccbe499",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Utilities Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff 碳价对工业PPI的影响 - 99d8ce00.md"
+        ]
+      },
+      {
+        "prompt_hash": "b40a674e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Consumer Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff 社零增长动能 - e7866c5e.md"
+        ]
+      },
+      {
+        "prompt_hash": "1ceeac5b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff 第二批债务置换额度倾向 - 38775964.md"
+        ]
+      },
+      {
+        "prompt_hash": "a76cc63b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Institute Diagnostician",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-11 - auto-handoff 风格切换是否被宏观数据支持 - dd054b7a.md"
+        ]
+      },
+      {
+        "prompt_hash": "5fa4fa8b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Economist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-12 - auto-handoff China May consumption and property trends - 5cfaf4a7.md"
+        ]
+      },
+      {
+        "prompt_hash": "ed0c741d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Derivatives Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-13 - auto-handoff 5 15 社融与 M2 基线与 - 81d60796.md"
+        ]
+      },
+      {
+        "prompt_hash": "74609630",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Credit Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-13 - auto-handoff 6月政府债供给与资金面相对节奏 - c6e35d1d.md"
+        ]
+      },
+      {
+        "prompt_hash": "767a8a08",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-13 - auto-handoff China 10Y yield and PBOC mid-fix signal - 6fb6d6ac.md"
+        ]
+      },
+      {
+        "prompt_hash": "c177c67b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-13 - auto-handoff 中国 10Y 收益率与 PBO - f010d2f8.md"
+        ]
+      },
+      {
+        "prompt_hash": "7762a7e6",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Economist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-13 - auto-handoff 中美元首会晤评估 - 2b4c604e.md"
+        ]
+      },
+      {
+        "prompt_hash": "10e81564",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-13 - auto-handoff 北京峰会企业代表团诉求评估 - 053d8b9a.md"
+        ]
+      },
+      {
+        "prompt_hash": "fa0b9d2f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-14 - auto-handoff 5月社融 M2对风格定价的传导 - d25b871f.md"
+        ]
+      },
+      {
+        "prompt_hash": "2b890849",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Consumer Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-14 - auto-handoff 625亿国补资金下达节奏审计 - 76dbdd87.md"
+        ]
+      },
+      {
+        "prompt_hash": "f4ac1356",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Agriculture Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-14 - auto-handoff Domestic grain prices vs May CPI food pass-through - 0e3c30c2.md"
+        ]
+      },
+      {
+        "prompt_hash": "ed739599",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-14 - auto-handoff PBoC 工具箱触发线与部署顺 - d57b1727.md"
+        ]
+      },
+      {
+        "prompt_hash": "2deb35f9",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Agriculture Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-14 - auto-handoff 国内粮价 vs CPI 食品项 - ac3401d1.md"
+        ]
+      },
+      {
+        "prompt_hash": "0275163d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Global Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-14 - auto-handoff 汇率极限压力测试 - 70950728.md"
+        ]
+      },
+      {
+        "prompt_hash": "097f0429",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-14 - auto-handoff 汇率防御区与流动性压力 - 845c107f.md"
+        ]
+      },
+      {
+        "prompt_hash": "fa469b64",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-14 - auto-handoff 港股-A股背离的宏观解读 - 47c27291.md"
+        ]
+      },
+      {
+        "prompt_hash": "b3310fb6",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from TMT Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-14 - auto-handoff 算电协同政策约束与EPS可见性 - ad2d9106.md"
+        ]
+      },
+      {
+        "prompt_hash": "3935e24e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Industrials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-14 - auto-handoff 算电协同政策障碍分析 - 6114c171.md"
+        ]
+      },
+      {
+        "prompt_hash": "a4ca1b48",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/中国宏观分析师/2026-05-14 - auto-handoff 雨季基建进度评估 - bb752d6b.md"
+        ]
       }
-    ],
-    "skeleton_hash": "2b5a51ea"
+    ]
   },
   "Global Macro Analyst (全球宏观分析师)": {
     "expertise": "US/EU/Japan economy, global trade, geopolitical risks.",
     "runs": 64,
     "file": "Global_Macro_Analyst_全球宏观分析师.md",
+    "prompt_versions": 64,
     "versions": [
       {
-        "skeleton_hash": "d6b5dbf2",
-        "runs": 64
+        "prompt_hash": "458a7d38",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Industrials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-09 - auto-handoff Defense Budget Fiscal Pressure - 74ff869c.md"
+        ]
+      },
+      {
+        "prompt_hash": "7a6a509c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Technical Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-09 - auto-handoff TNX 收益率路径：4.38 - 47514fbe.md"
+        ]
+      },
+      {
+        "prompt_hash": "f019d546",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Industrials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-09 - auto-handoff 国防预算与财政压力 - bf6449bc.md"
+        ]
+      },
+      {
+        "prompt_hash": "43c4bb7d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Morning Brief Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-10 - auto-handoff Brent 114 美元 桶水 - e507793e.md"
+        ]
+      },
+      {
+        "prompt_hash": "4ef5b8bf",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Economist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-10 - auto-handoff ECB 5 21 降息概率从 - f1b14a64.md"
+        ]
+      },
+      {
+        "prompt_hash": "ebdd8b7f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-10 - auto-handoff Impact of Trump-Xi Summit on FX - 7d918577.md"
+        ]
+      },
+      {
+        "prompt_hash": "a155d0a7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Data Scientist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-10 - auto-handoff Middle East Conflict Escalation Risk - 62ad8506.md"
+        ]
+      },
+      {
+        "prompt_hash": "7fe4fcfa",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-10 - auto-handoff U.S. April Employment Situation verification - 27a950ce.md"
+        ]
+      },
+      {
+        "prompt_hash": "035713b9",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-10 - auto-handoff WTI单周 11.30 的驱动 - 5099a171.md"
+        ]
+      },
+      {
+        "prompt_hash": "552baafd",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Research Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-10 - auto-handoff Warsh继任后6月FOMC路 - a49d9d58.md"
+        ]
+      },
+      {
+        "prompt_hash": "5c12e7d2",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-10 - auto-handoff 中美峰会对汇率影响 - 1903a0df.md"
+        ]
+      },
+      {
+        "prompt_hash": "08a88da6",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-10 - auto-handoff 全球 AI 份额迁移的汇率映射 - 18462388.md"
+        ]
+      },
+      {
+        "prompt_hash": "33c1431b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Research Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-10 - auto-handoff 复核 Fed 定价与美国就业后 - 40edd31c.md"
+        ]
+      },
+      {
+        "prompt_hash": "a9fb59b9",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-10 - auto-handoff 美联储异议票委立场拆解 - 78b46ba9.md"
+        ]
+      },
+      {
+        "prompt_hash": "1e91d1e4",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Morning Brief Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-10 - auto-handoff 能源通胀传导路径 - 98006615.md"
+        ]
+      },
+      {
+        "prompt_hash": "26ef6832",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from QA Manager",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff DXY 与 USDCNH 数据源裁定 - 98bc70c7.md"
+        ]
+      },
+      {
+        "prompt_hash": "153ec174",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff DXY 压制周期评估 - 6cad2d95.md"
+        ]
+      },
+      {
+        "prompt_hash": "73d7261d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Committee Chair",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff DXY 读数核验 - 10980d98.md"
+        ]
+      },
+      {
+        "prompt_hash": "85e32609",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff Fed 2027 Hike Pricing Impact - 85c48191.md"
+        ]
+      },
+      {
+        "prompt_hash": "f3a4536d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff Fed 2027 加息定价影响 - bc51dfc7.md"
+        ]
+      },
+      {
+        "prompt_hash": "653f2243",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from TMT Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff Sovereign AI Capex Trends - 7997f679.md"
+        ]
+      },
+      {
+        "prompt_hash": "1673ce92",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff US Consumer Credit vs Inflation - eb16411e.md"
+        ]
+      },
+      {
+        "prompt_hash": "fc9afc92",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff US Consumer credit stress - 971892b9.md"
+        ]
+      },
+      {
+        "prompt_hash": "c1565ff0",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Derivatives Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff USD CNH 期权腿调整阈值 - 005ff6a3.md"
+        ]
+      },
+      {
+        "prompt_hash": "1bb4b879",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Algo Trader",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff USDCNH 压力测试 - fca65af9.md"
+        ]
+      },
+      {
+        "prompt_hash": "86810da7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff USDCNH 日内口径与北向资 - e38cf033.md"
+        ]
+      },
+      {
+        "prompt_hash": "5c7f0145",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Energy Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 中东局势对全球通胀影响 - 04b5cca6.md"
+        ]
+      },
+      {
+        "prompt_hash": "0e9da5cd",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 中东风险溢价评估 - 5e4bdba1.md"
+        ]
+      },
+      {
+        "prompt_hash": "a99a64c9",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from TMT Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 主权AI资本开支趋势 - c073638f.md"
+        ]
+      },
+      {
+        "prompt_hash": "1c464607",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Financials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 汇率破位压力测试 - 1fbfe182.md"
+        ]
+      },
+      {
+        "prompt_hash": "2b595703",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 油价脱敏性压力测试 - 029b66cc.md"
+        ]
+      },
+      {
+        "prompt_hash": "048f31d8",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Agriculture Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 美元强周期下的农产品进口平价 - c8c6cfbb.md"
+        ]
+      },
+      {
+        "prompt_hash": "7d1db488",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 美元走强下北向资金的反向表现 - 8a03e69c.md"
+        ]
+      },
+      {
+        "prompt_hash": "9ed43547",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Asset Allocator",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 美元走强对北向压制的拐点 - 313910db.md"
+        ]
+      },
+      {
+        "prompt_hash": "4ffcdd52",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Research Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 美元走强对北向压制的拐点 - 718c30dd.md"
+        ]
+      },
+      {
+        "prompt_hash": "3df0d668",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Healthcare Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 美元走强对医药蓝筹的压制周期 - 7f0077c8.md"
+        ]
+      },
+      {
+        "prompt_hash": "6edd2e40",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Industrials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 美元走强对工业蓝筹的压制窗口 - 6885adfc.md"
+        ]
+      },
+      {
+        "prompt_hash": "7d2e7d9d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Auto Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 美欧关税摩擦影响 - db3ae893.md"
+        ]
+      },
+      {
+        "prompt_hash": "4d284116",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 美联储领导层更迭后的政策框架 - a24cc333.md"
+        ]
+      },
+      {
+        "prompt_hash": "5c2f6973",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-11 - auto-handoff 美联储鹰派信号对A股的溢出效应 - ac555af4.md"
+        ]
+      },
+      {
+        "prompt_hash": "e41f4551",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-12 - auto-handoff Brent 何阈值触发 6 月 - 5f050fbd.md"
+        ]
+      },
+      {
+        "prompt_hash": "26956ad7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Energy Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-12 - auto-handoff Hormuz 持续封锁对全球通 - 27b76de2.md"
+        ]
+      },
+      {
+        "prompt_hash": "ba913bb0",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-12 - auto-handoff Trump-Xi Summit Expectation Management - 0fd765bd.md"
+        ]
+      },
+      {
+        "prompt_hash": "9a890dce",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Economist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-12 - auto-handoff U.S. inflation and retail data - 9f268cc6.md"
+        ]
+      },
+      {
+        "prompt_hash": "8b19c250",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-12 - auto-handoff 原油 105 后的通胀预期再 - 079a28e8.md"
+        ]
+      },
+      {
+        "prompt_hash": "68206a7f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-12 - auto-handoff 特习会预期管理 - ef587835.md"
+        ]
+      },
+      {
+        "prompt_hash": "e44c9c77",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-12 - auto-handoff 超大规模云厂商 capex 分 - e766e8cb.md"
+        ]
+      },
+      {
+        "prompt_hash": "f577a298",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-13 - auto-handoff 100美元油价对通胀预期的传导 - 8494e403.md"
+        ]
+      },
+      {
+        "prompt_hash": "5d60e207",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-13 - auto-handoff Lower-tier Consumer Credit Stress - f1f8692e.md"
+        ]
+      },
+      {
+        "prompt_hash": "6a18e694",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-13 - auto-handoff USD JPY intervention risk and carry-trade crowding - e11bd503.md"
+        ]
+      },
+      {
+        "prompt_hash": "9145fe03",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-13 - auto-handoff USD JPY 干预风险与 carry trade 拥挤度 - ba97d43f.md"
+        ]
+      },
+      {
+        "prompt_hash": "2f2f83e4",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-13 - auto-handoff 低端消费信用压力 - 9a994ff1.md"
+        ]
+      },
+      {
+        "prompt_hash": "c4b13919",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-13 - auto-handoff 沃什-鲍威尔权力制衡分析 - 0d015b3b.md"
+        ]
+      },
+      {
+        "prompt_hash": "fd1fa190",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Economist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-13 - auto-handoff 沃什政策框架研究 - cbfd60c1.md"
+        ]
+      },
+      {
+        "prompt_hash": "6ce1f0bf",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-13 - auto-handoff 铜铝价格的宏观主导因子 - fa070e63.md"
+        ]
+      },
+      {
+        "prompt_hash": "16a03798",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Energy Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-13 - auto-handoff 霍尔木兹海峡中断的宏观传导 - 254c56e4.md"
+        ]
+      },
+      {
+        "prompt_hash": "dd89f322",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-14 - auto-handoff Impact of ME Conflict on Energy-Intensive Metals - b2db604b.md"
+        ]
+      },
+      {
+        "prompt_hash": "476c67d5",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Risk Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-14 - auto-handoff Iran 停火破裂情境下的跨资 - 9b24746f.md"
+        ]
+      },
+      {
+        "prompt_hash": "540b425d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-14 - auto-handoff USD CNY 路径在 Fed 0 降息 中美 10Y spread - b4d72fe4.md"
+        ]
+      },
+      {
+        "prompt_hash": "6f7709d7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Energy Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-14 - auto-handoff 中东冲突与通胀路径 - 51431433.md"
+        ]
+      },
+      {
+        "prompt_hash": "ece5a184",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-14 - auto-handoff 中东冲突对能源密集型金属的影响 - aaa6a162.md"
+        ]
+      },
+      {
+        "prompt_hash": "b9c2cd5f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-14 - auto-handoff 中国港口空箱压力 - 54dcd21b.md"
+        ]
+      },
+      {
+        "prompt_hash": "1f63f377",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-14 - auto-handoff 特朗普-习近平峰会潜在汇率协议 - abd449a1.md"
+        ]
+      },
+      {
+        "prompt_hash": "7227f8c6",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/全球宏观分析师/2026-05-14 - auto-handoff 阶段切换的双触发量化 - c22ebe92.md"
+        ]
       }
-    ],
-    "skeleton_hash": "d6b5dbf2"
+    ]
   },
   "FX Strategist (外汇策略师)": {
     "expertise": "CNY/USD/EUR/JPY trends, carry trades, FX risk.",
     "runs": 12,
     "file": "FX_Strategist_外汇策略师.md",
+    "prompt_versions": 12,
     "versions": [
       {
-        "skeleton_hash": "e7eb60af",
-        "runs": 12
+        "prompt_hash": "059261b8",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Technical Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/外汇策略师/2026-05-09 - auto-handoff DXY GBP post-BoE gap - 704e456a.md"
+        ]
+      },
+      {
+        "prompt_hash": "c69e1554",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/外汇策略师/2026-05-10 - auto-handoff Impact of Trump-Xi summit on FX markets - bc8295e7.md"
+        ]
+      },
+      {
+        "prompt_hash": "1204169d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/外汇策略师/2026-05-10 - auto-handoff Impact of Trump-Xi summit on FX markets - bf451c00.md"
+        ]
+      },
+      {
+        "prompt_hash": "e4bcfe7b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Data Scientist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/外汇策略师/2026-05-10 - auto-handoff JPY Intervention Effectiveness - 2c3f12f7.md"
+        ]
+      },
+      {
+        "prompt_hash": "3e55b31f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/外汇策略师/2026-05-10 - auto-handoff USD CNH 6.80 Level Sustainability - e2523815.md"
+        ]
+      },
+      {
+        "prompt_hash": "074fae04",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Risk Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/外汇策略师/2026-05-10 - auto-handoff USD JPY carry unwind传导阈值 - cf13a37a.md"
+        ]
+      },
+      {
+        "prompt_hash": "b878535f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Economist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/外汇策略师/2026-05-10 - auto-handoff 美元走势压力测试 - 6829c737.md"
+        ]
+      },
+      {
+        "prompt_hash": "f547ac7f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/外汇策略师/2026-05-12 - auto-handoff CHF Safe-Haven Premium - b2767525.md"
+        ]
+      },
+      {
+        "prompt_hash": "4656be64",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/外汇策略师/2026-05-12 - auto-handoff 瑞士法郎避险溢价 - 9b894d46.md"
+        ]
+      },
+      {
+        "prompt_hash": "8593b19d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Global Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/外汇策略师/2026-05-14 - auto-handoff EUR USD tactical and medium-term path - ff2f00fd.md"
+        ]
+      },
+      {
+        "prompt_hash": "1b2d593e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Global Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/外汇策略师/2026-05-14 - auto-handoff EUR USD 战术与中期路径 - 8491c7d7.md"
+        ]
+      },
+      {
+        "prompt_hash": "e4cfa550",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Industrials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/外汇策略师/2026-05-14 - auto-handoff 汇率破7.35对制造业美元债压 - 1291633c.md"
+        ]
       }
-    ],
-    "skeleton_hash": "e7eb60af"
+    ]
   },
   "Asset Allocator (大类资产配置师)": {
     "expertise": "Equity/bond/commodity allocation, risk parity, all-weather.",
     "runs": 2,
     "file": "Asset_Allocator_大类资产配置师.md",
+    "prompt_versions": 2,
     "versions": [
       {
-        "skeleton_hash": "f23650b3",
-        "runs": 2
+        "prompt_hash": "c3b53b1a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/大类资产配置师/2026-05-11 - auto-handoff 拥挤多头集中减仓后的再配置方案 - 5f260b65.md"
+        ]
+      },
+      {
+        "prompt_hash": "633e6b7c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Real Estate Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/大类资产配置师/2026-05-13 - auto-handoff 高股息地产股配置 - 211d0609.md"
+        ]
       }
-    ],
-    "skeleton_hash": "f23650b3"
+    ]
   },
   "Chief Economist (首席经济学家)": {
     "expertise": "Global macro cycles, GDP/CPI/PMI forecasting, central bank policy.",
     "runs": 13,
     "file": "Chief_Economist_首席经济学家.md",
+    "prompt_versions": 13,
     "versions": [
       {
-        "skeleton_hash": "f4ce0f6c",
-        "runs": 13
+        "prompt_hash": "d6f4803c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Data Scientist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/首席经济学家/2026-05-10 - auto-handoff China Trade Sustainability Analysis - 3939f7fb.md"
+        ]
+      },
+      {
+        "prompt_hash": "f88a76c7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Utilities Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/首席经济学家/2026-05-10 - auto-handoff Impact of stronger NFP on utility rate-cut expectations - 0aec1ed6.md"
+        ]
+      },
+      {
+        "prompt_hash": "bcbaf634",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/首席经济学家/2026-05-10 - auto-handoff May PPI Forecasts Oil Price Impact - 6f8d81d7.md"
+        ]
+      },
+      {
+        "prompt_hash": "67bf5a9a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/首席经济学家/2026-05-10 - auto-handoff Non-manufacturing new orders breaking 45 — implications - 4c2a40f4.md"
+        ]
+      },
+      {
+        "prompt_hash": "936802fa",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Derivatives Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/首席经济学家/2026-05-10 - auto-handoff Review US labor and Fed path implications - da935ae7.md"
+        ]
+      },
+      {
+        "prompt_hash": "9fbf85cf",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Data Scientist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/首席经济学家/2026-05-10 - auto-handoff 重写 W18 周报的宏观叙事底 - f457e335.md"
+        ]
+      },
+      {
+        "prompt_hash": "ba353c97",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/首席经济学家/2026-05-10 - auto-handoff 非制造业新订单跌破 45 的影 - 69abd029.md"
+        ]
+      },
+      {
+        "prompt_hash": "e1c22825",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from TMT Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/首席经济学家/2026-05-11 - auto-handoff AI Power Demand and Grid Resilience - f746edd1.md"
+        ]
+      },
+      {
+        "prompt_hash": "9eec7b73",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from TMT Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/首席经济学家/2026-05-11 - auto-handoff AI电力需求与电网韧性 - 8de841d8.md"
+        ]
+      },
+      {
+        "prompt_hash": "4c1ecdd1",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Global Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/首席经济学家/2026-05-11 - auto-handoff CPI与就业韧性背离风险 - 074093b6.md"
+        ]
+      },
+      {
+        "prompt_hash": "fe182246",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/首席经济学家/2026-05-11 - auto-handoff 油价对全球通胀粘性的影响 - 580bc40f.md"
+        ]
+      },
+      {
+        "prompt_hash": "fed82600",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/首席经济学家/2026-05-13 - auto-handoff Impact of Trump-Xi Summit on Capital Markets - a5cd7115.md"
+        ]
+      },
+      {
+        "prompt_hash": "1cebb6d1",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/宏观与策略/首席经济学家/2026-05-13 - auto-handoff 中美会晤预期对资本市场影响 - 9795093d.md"
+        ]
       }
-    ],
-    "skeleton_hash": "f4ce0f6c"
+    ]
   },
   "Alt Data Analyst (另类数据分析师)": {
     "expertise": "Satellite data, credit card spending, app usage, supply chain.",
     "runs": 2,
     "file": "Alt_Data_Analyst_另类数据分析师.md",
+    "prompt_versions": 2,
     "versions": [
       {
-        "skeleton_hash": "7736d681",
-        "runs": 2
+        "prompt_hash": "1899e775",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Risk Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/情绪与另类数据/另类数据分析师/2026-05-10 - auto-handoff Add official breadth and liquidity data - 6813a76e.md"
+        ]
+      },
+      {
+        "prompt_hash": "17b3ab29",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Risk Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/情绪与另类数据/另类数据分析师/2026-05-10 - auto-handoff 补充官方市场宽度与流动性数据 - ace2b823.md"
+        ]
       }
-    ],
-    "skeleton_hash": "7736d681"
+    ]
   },
   "Sentiment Analyst (市场情绪师)": {
     "expertise": "Fear-greed index, fund flows, investor behavior.",
     "runs": 1,
     "file": "Sentiment_Analyst_市场情绪师.md",
+    "prompt_versions": 1,
     "versions": [
       {
-        "skeleton_hash": "68f28256",
-        "runs": 1
+        "prompt_hash": "0c597384",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/情绪与另类数据/市场情绪师/2026-05-11 - auto-handoff 筹码交换比率分析 - 9fe03dc3.md"
+        ]
       }
     ],
-    "skeleton_hash": "68f28256"
+    "prompt_hash": "0c597384"
   },
   "Social Media Analyst (社交媒体分析师)": {
     "expertise": "Xueqiu, Eastmoney, Weibo sentiment, trending topics.",
     "runs": 1,
     "file": "Social_Media_Analyst_社交媒体分析师.md",
+    "prompt_versions": 1,
     "versions": [
       {
-        "skeleton_hash": "2a8f40b1",
-        "runs": 1
+        "prompt_hash": "82c3ef49",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/情绪与另类数据/社交媒体分析师/2026-05-11 - auto-handoff 指数报价数据冲突核实 - c7a11c63.md"
+        ]
       }
     ],
-    "skeleton_hash": "2a8f40b1"
+    "prompt_hash": "82c3ef49"
   },
   "A-Share Strategist (A股策略师)": {
     "expertise": "SSE/SZSE market structure, margin data, lockup expiry.",
     "runs": 37,
     "file": "A-Share_Strategist_A股策略师.md",
+    "prompt_versions": 35,
     "versions": [
       {
-        "skeleton_hash": "1e4690d8",
-        "runs": 37
+        "prompt_hash": "abf6e7f1",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Factor Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-09 - auto-handoff A股300成长成交额94 分位 - a1becf7d.md"
+        ]
+      },
+      {
+        "prompt_hash": "a2d267e0",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-10 - auto-handoff 3万亿成交额下的监管边界 - 7f9ccde4.md"
+        ]
+      },
+      {
+        "prompt_hash": "ab7be41f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from China Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-10 - auto-handoff Trump 访华情景下的 A - e7317eb5.md"
+        ]
+      },
+      {
+        "prompt_hash": "b9e1fbc4",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-10 - auto-handoff 出口链 vs. AI 主线 5 - 1122b7ea.md"
+        ]
+      },
+      {
+        "prompt_hash": "6c7d0576",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Research Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-10 - auto-handoff 补齐 A 股行业轮动与北向 南 - e04d2686.md"
+        ]
+      },
+      {
+        "prompt_hash": "9f490691",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Algo Trader",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 3万亿成交额下的风格持续性 - 1666d34f.md"
+        ]
+      },
+      {
+        "prompt_hash": "52deddc9",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 5.14中美峰会前瞻与避险方案 - c487df8f.md"
+        ]
+      },
+      {
+        "prompt_hash": "9e0652b6",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Convertible Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 5–6 月 β-Sleeve - 749a2797.md"
+        ]
+      },
+      {
+        "prompt_hash": "bc556115",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Healthcare Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 5月解禁潮下的医疗板块风格切换 - 6097604c.md"
+        ]
+      },
+      {
+        "prompt_hash": "27f41643",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff A 股映射验证 - aa514d15.md"
+        ]
+      },
+      {
+        "prompt_hash": "02d685d7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff A股存量博弈下的风格切换 - 3e3f25cf.md"
+        ]
+      },
+      {
+        "prompt_hash": "c7144d6b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Technical Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff PCB 龙头 RSI 超买叠加 - b655167f.md"
+        ]
+      },
+      {
+        "prompt_hash": "39a7e37d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff Validate A-share read-through - 6c35c573.md"
+        ]
+      },
+      {
+        "prompt_hash": "07eaa160",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 下午两融与电子 计算机净买入边 - 6cd0f6cc.md"
+        ]
+      },
+      {
+        "prompt_hash": "60a0d48a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 创业板尾盘 2σ与明日开盘策略 - 52132171.md"
+        ]
+      },
+      {
+        "prompt_hash": "0bed0484",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 创业板尾盘 2σ与明日开盘策略 - 5612aeb7.md"
+        ]
+      },
+      {
+        "prompt_hash": "a130e9f9",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 商业遥感 卫星制造受益标的 - a9f96104.md"
+        ]
+      },
+      {
+        "prompt_hash": "1d93e085",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Technical Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 指数突破有效性 风格切换确 - b250ced8.md"
+        ]
+      },
+      {
+        "prompt_hash": "e81a676b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 指数读数偏差确认 - 7e62283c.md"
+        ]
+      },
+      {
+        "prompt_hash": "50632e2d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Technical Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 科创 50 高估值与 C 浪窗 - 6197216a.md"
+        ]
+      },
+      {
+        "prompt_hash": "be6d9415",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Technical Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 突破板块 vs. 指数顶背离的 - d2f4d6e3.md"
+        ]
+      },
+      {
+        "prompt_hash": "aea5fa85",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 集运盈利 α×箱量 β - a1db0e26.md"
+        ]
+      },
+      {
+        "prompt_hash": "b0e596d5",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Consumer Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 风格切换中消费子板块的资金搬家 - 96b63d1f.md"
+        ]
+      },
+      {
+        "prompt_hash": "8ce844e7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-11 - auto-handoff 风格切换持续性评估 - 68cf2a13.md"
+        ]
+      },
+      {
+        "prompt_hash": "40873571",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-12 - auto-handoff A 股 AI 电力 主网设 - 82827557.md"
+        ]
+      },
+      {
+        "prompt_hash": "151c12b8",
+        "runs": 2,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-12 - auto-handoff 尾盘诱多 AI capex - a0ceff6d.md",
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-12 - auto-handoff 尾盘诱多 AI capex - ef6e339f.md"
+        ]
+      },
+      {
+        "prompt_hash": "3626896c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-12 - auto-handoff 并购重组政策压力测试 - 5671b9e7.md"
+        ]
+      },
+      {
+        "prompt_hash": "8582adde",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-12 - auto-handoff 融资盘踩踏压力测试 - bb0d77ba.md"
+        ]
+      },
+      {
+        "prompt_hash": "c443bd3a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-13 - auto-handoff 低波拥挤下A股风格切换的触发条 - d0c6ef51.md"
+        ]
+      },
+      {
+        "prompt_hash": "f4d77798",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Convertible Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-13 - auto-handoff 强赎潮对小盘股流动性影响 - 3350f0eb.md"
+        ]
+      },
+      {
+        "prompt_hash": "52f52437",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Algo Trader",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-13 - auto-handoff 算力 创新药轮动持续性 - f44460a1.md"
+        ]
+      },
+      {
+        "prompt_hash": "db3ab752",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-14 - auto-handoff 7.35 关口下的两融反身性测 - 1230a121.md"
+        ]
+      },
+      {
+        "prompt_hash": "a544634e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-14 - auto-handoff Index-at-highs vs. 4,000-decliners breadth split — distribution - d510c5f9.md"
+        ]
+      },
+      {
+        "prompt_hash": "42a6c7e2",
+        "runs": 2,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-14 - auto-handoff 指数新高 vs. 4000只下 - b40e5753.md",
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-14 - auto-handoff 指数新高 vs. 4000只下 - d3f5a851.md"
+        ]
+      },
+      {
+        "prompt_hash": "5c4b67e0",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Global Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/A股策略师/2026-05-14 - auto-handoff 汇率防御区与北向资金流向 - c328926b.md"
+        ]
       }
-    ],
-    "skeleton_hash": "1e4690d8"
+    ]
   },
   "HK/US Strategist (港美股策略师)": {
     "expertise": "HK Connect, ADRs, US tech sector.",
     "runs": 2,
     "file": "HK_US_Strategist_港美股策略师.md",
+    "prompt_versions": 2,
     "versions": [
       {
-        "skeleton_hash": "1b4d307d",
-        "runs": 2
+        "prompt_hash": "533661ef",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Derivatives Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/港美股策略师/2026-05-11 - auto-handoff Card 08 规则 C 替代 - d6fff35e.md"
+        ]
+      },
+      {
+        "prompt_hash": "eaeee0c5",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/港美股策略师/2026-05-11 - auto-handoff PDD Temu geo-rotation - a330cd23.md"
+        ]
       }
-    ],
-    "skeleton_hash": "1b4d307d"
+    ]
   },
   "Chief Strategist (首席策略师)": {
     "expertise": "A-share strategy, style rotation, sector allocation.",
     "runs": 81,
     "file": "Chief_Strategist_首席策略师.md",
+    "prompt_versions": 81,
     "versions": [
       {
-        "skeleton_hash": "495d22ac",
-        "runs": 81
+        "prompt_hash": "be68cfbd",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Industrials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-09 - auto-handoff Industrials AI Premium Audit - 7f60136c.md"
+        ]
+      },
+      {
+        "prompt_hash": "8518ef31",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Industrials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-09 - auto-handoff 国防板块‘超级周期 vs 个股 - 766a523f.md"
+        ]
+      },
+      {
+        "prompt_hash": "52420744",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Industrials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-09 - auto-handoff 工业板块 AI 溢价审计 - 9d42f2f4.md"
+        ]
+      },
+      {
+        "prompt_hash": "a0b3d858",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-10 - auto-handoff AI 主题拥挤度的仓位再校准 - a86612d0.md"
+        ]
+      },
+      {
+        "prompt_hash": "39dd70eb",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-10 - auto-handoff Credit-Equity Divergence Validation - 3482f8e3.md"
+        ]
+      },
+      {
+        "prompt_hash": "8c904852",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from QA Manager",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-10 - auto-handoff Validate breadth and positioning behind the tech-led rally - 461532ec.md"
+        ]
+      },
+      {
+        "prompt_hash": "4a519258",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-10 - auto-handoff 信贷与权益背离验证 - a467aad8.md"
+        ]
+      },
+      {
+        "prompt_hash": "64f91bc9",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Auto Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-10 - auto-handoff 新能源渗透率突破60 后的行业 - c3dbcef0.md"
+        ]
+      },
+      {
+        "prompt_hash": "6deb26a4",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-10 - auto-handoff 柔佛数据中心违约的系统性影响 - 898f68d0.md"
+        ]
+      },
+      {
+        "prompt_hash": "2f4f547e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 2026 主题股 vs. 宽基的 overweight 仓位指引 - 27579c2b.md"
+        ]
+      },
+      {
+        "prompt_hash": "31037ddb",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Technical Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 2026年下半年宏观流动性预期 - 72ba09e0.md"
+        ]
+      },
+      {
+        "prompt_hash": "d07e4fbe",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Compliance Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 5 15 数据日策略发布与限制 - 7ef499c1.md"
+        ]
+      },
+      {
+        "prompt_hash": "5a5597b4",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff AI 算力链拥挤后的资金再平衡 - d5d3fd92.md"
+        ]
+      },
+      {
+        "prompt_hash": "89a4606c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff AI基建需求持续性 - 7287a2c6.md"
+        ]
+      },
+      {
+        "prompt_hash": "afb89ed9",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from QA Manager",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff A股上午盘面方向口径裁定 - 58262b61.md"
+        ]
+      },
+      {
+        "prompt_hash": "bde3d809",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Risk Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff CPI 周组合方向性敞口建议 - 1dca2d5b.md"
+        ]
+      },
+      {
+        "prompt_hash": "eee59e38",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff Curve strategy under ultra-long supply shock - bc2fa01d.md"
+        ]
+      },
+      {
+        "prompt_hash": "8bbc2b9d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Derivatives Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff Does 50ETF skew compression signal a style-rotation window - a550b441.md"
+        ]
+      },
+      {
+        "prompt_hash": "3c76563d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Energy Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff Global Energy Policy Divergence - a2ab2407.md"
+        ]
+      },
+      {
+        "prompt_hash": "85f46b1c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Technical Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff H2 2026 Macro Liquidity Outlook - 3485e335.md"
+        ]
+      },
+      {
+        "prompt_hash": "970c00e5",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff K 型消费在 2Q 重启 - 60f1bea9.md"
+        ]
+      },
+      {
+        "prompt_hash": "f05754f3",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Derivatives Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff Policy right-tail vs. US-earnings right-tail — cross-market all - e760eee1.md"
+        ]
+      },
+      {
+        "prompt_hash": "9ad6479b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff Positioning playbook with margin near RMB 2.8 trn - 2e1bb32a.md"
+        ]
+      },
+      {
+        "prompt_hash": "e1c1efa1",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Risk Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff Sector rotation under bull-steepening - 2c661db3.md"
+        ]
+      },
+      {
+        "prompt_hash": "46d8ab45",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff Sustainability of AI Infrastructure Demand - 029f368e.md"
+        ]
+      },
+      {
+        "prompt_hash": "a9a5b51c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff Valuation Stress Test for Red May Outlook - ffdd2c7d.md"
+        ]
+      },
+      {
+        "prompt_hash": "320f287a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Risk Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff bull-steepening 下板块旋转建议 - f70bf54d.md"
+        ]
+      },
+      {
+        "prompt_hash": "1e540f14",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff “红五月”预期下的估值压力测试 - 3ef0b8f7.md"
+        ]
+      },
+      {
+        "prompt_hash": "7503ebd7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 两融逼近2.8万亿后的仓位与节 - 19be52b6.md"
+        ]
+      },
+      {
+        "prompt_hash": "ead2557f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 信用利差被动收窄 vs 利率突 - f6fcb4d5.md"
+        ]
+      },
+      {
+        "prompt_hash": "7ed447d2",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 周期反转 vs 估值抢跑 — - 8a67d2a3.md"
+        ]
+      },
+      {
+        "prompt_hash": "2922c819",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Healthcare Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 商保创新药目录影响评估 - 9e013e26.md"
+        ]
+      },
+      {
+        "prompt_hash": "bbdf0734",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Derivatives Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 政策右尾 vs. 美股财报右尾 - be7fecd1.md"
+        ]
+      },
+      {
+        "prompt_hash": "85931b55",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 美国消费降级与宏观估值锚点 - 20eb6267.md"
+        ]
+      },
+      {
+        "prompt_hash": "d0f45d09",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Institute Diagnostician",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 美股量子业绩兑现失败下的篮子降 - 70c3ad94.md"
+        ]
+      },
+      {
+        "prompt_hash": "e0fe163c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Convertible Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 补全 card-08 量子篮子 - 97ebf53c.md"
+        ]
+      },
+      {
+        "prompt_hash": "b8b64807",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 超长端供给冲击下的曲线策略 - be87896e.md"
+        ]
+      },
+      {
+        "prompt_hash": "7ded07a5",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 量子第一腿可审计性裁定口径 - 6413bf48.md"
+        ]
+      },
+      {
+        "prompt_hash": "32aa4ece",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Auto Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 量子篮子与汽车电子联动 - 71b18bf9.md"
+        ]
+      },
+      {
+        "prompt_hash": "9ea1190d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Derivatives Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 量子篮子事件保险腿权利金预算 - 9d60b3b9.md"
+        ]
+      },
+      {
+        "prompt_hash": "4d2fd95c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 量子篮子档位是否对盘中情绪急转 - 48da8807.md"
+        ]
+      },
+      {
+        "prompt_hash": "fc6637b8",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from TMT Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 量子篮子若今晚美股证据失败，腾 - 8ee6bddb.md"
+        ]
+      },
+      {
+        "prompt_hash": "2662be9a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Factor Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-11 - auto-handoff 风格切换下长周期因子 价值 低 - 5959dae3.md"
+        ]
+      },
+      {
+        "prompt_hash": "74042c50",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-12 - auto-handoff A 股科技与港股科技剪刀差的可 - 1e00905f.md"
+        ]
+      },
+      {
+        "prompt_hash": "06d7a31d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-12 - auto-handoff AI capex 久期陷阱是否 - 48dae478.md"
+        ]
+      },
+      {
+        "prompt_hash": "a14c3ae5",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-12 - auto-handoff AI 基础设施作为新久期资产的 - 5838ea6f.md"
+        ]
+      },
+      {
+        "prompt_hash": "2097b2d7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-12 - auto-handoff SpaceX IPO Premium Spillovers - 1e85a406.md"
+        ]
+      },
+      {
+        "prompt_hash": "dfe9d2ea",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-12 - auto-handoff SpaceX IPO 溢价传导 - fd7be278.md"
+        ]
+      },
+      {
+        "prompt_hash": "19f742d9",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-12 - auto-handoff Sustainability of the A-share vs. HK tech scissor gap - abcf1a02.md"
+        ]
+      },
+      {
+        "prompt_hash": "e2996f7f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Financials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff 2026H2 风格切换中金融板 - 75e31bf3.md"
+        ]
+      },
+      {
+        "prompt_hash": "57113c75",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Convertible Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff 6-7月利率与风险偏好路径，用 - 4098496a.md"
+        ]
+      },
+      {
+        "prompt_hash": "109d826f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Risk Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff AI 半导体仓位与久期空头 - a62a3884.md"
+        ]
+      },
+      {
+        "prompt_hash": "798479fe",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff Crowding call under the double-high in leverage and turnover - fe0423bf.md"
+        ]
+      },
+      {
+        "prompt_hash": "116aaeda",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff Hyperscaler CapEx 卫星证伪的策略表达 - cca07e9e.md"
+        ]
+      },
+      {
+        "prompt_hash": "9623e447",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff Low-Vol 与 Quali - f4bcdce9.md"
+        ]
+      },
+      {
+        "prompt_hash": "846475b3",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Global Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff PPI 爆表后的股债配置再平衡 - 1c5c21b1.md"
+        ]
+      },
+      {
+        "prompt_hash": "c0bfa747",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff Warsh Regime Rate Path - 73dab6fe.md"
+        ]
+      },
+      {
+        "prompt_hash": "195fcacc",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Utilities Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff 公用事业选址溢价 A 股标的纳 - 94396601.md"
+        ]
+      },
+      {
+        "prompt_hash": "4584caac",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Healthcare Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff 医药板块在当前主线中的定位 - 8601f20e.md"
+        ]
+      },
+      {
+        "prompt_hash": "3d85ca41",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff 半导体主线持续性 vs 中小盘 - 3f723eb3.md"
+        ]
+      },
+      {
+        "prompt_hash": "96656fe8",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from HK/US Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff 南向资金减仓互联网头部 减 - 64caca63.md"
+        ]
+      },
+      {
+        "prompt_hash": "20607cf1",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from TMT Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff 快闪借壳硬科技标的在风格轮动剧 - 2d56815b.md"
+        ]
+      },
+      {
+        "prompt_hash": "49fcdcc5",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff 杠杆 成交双高下的拥挤度判断 - 55e4ac5e.md"
+        ]
+      },
+      {
+        "prompt_hash": "b4d3b7a7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-13 - auto-handoff 沃什 regime 利率路径 - 5988c6ea.md"
+        ]
+      },
+      {
+        "prompt_hash": "09f0bc70",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Derivatives Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff 50ETF skew 陡峭化的 - c68e5466.md"
+        ]
+      },
+      {
+        "prompt_hash": "1c72c9d2",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Global Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff Asset Allocation Under Secondary Inflation Wave - d88da389.md"
+        ]
+      },
+      {
+        "prompt_hash": "6f120ee8",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff Decompose relative strength and earnings revisions for AMZN WMT - a0701b56.md"
+        ]
+      },
+      {
+        "prompt_hash": "f8beec1d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff Reading the brokers 115 liquidation tightening - cefaafae.md"
+        ]
+      },
+      {
+        "prompt_hash": "d25ffadd",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff Run lagged card-spend-to-net-yield sensitivity for RCL CCL NCLH - bcf4cca2.md"
+        ]
+      },
+      {
+        "prompt_hash": "db554c0d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff Service Sector Premium in Asset Allocation - 3fa4e781.md"
+        ]
+      },
+      {
+        "prompt_hash": "f6ed7e6a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from TMT Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff TMT 卫星仓降杠杆触发点 - b0fa3b4d.md"
+        ]
+      },
+      {
+        "prompt_hash": "a755ece4",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff Trump-Xi Summit Impact - 14c336b4.md"
+        ]
+      },
+      {
+        "prompt_hash": "22f1ac41",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff 今日 10Y 国债续发对组合久 - 5536764a.md"
+        ]
+      },
+      {
+        "prompt_hash": "da3f0c3f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff 券商主动上调 115 平仓线 - 8d5b9e6d.md"
+        ]
+      },
+      {
+        "prompt_hash": "78693eff",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff 服务业通胀粘性与 TMT 贴现 - 2141b936.md"
+        ]
+      },
+      {
+        "prompt_hash": "e1236a9b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff 算力期货对 AI 硬件估值体系 - a543e957.md"
+        ]
+      },
+      {
+        "prompt_hash": "01406988",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Energy Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff 能源 公用事业在防御轮动组合中 - 2366d802.md"
+        ]
+      },
+      {
+        "prompt_hash": "36b0ad29",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Real Estate Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff 质量牛第二引擎在FX 利率双紧 - 679bfa76.md"
+        ]
+      },
+      {
+        "prompt_hash": "361443e0",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff 跨资产配置中的服务业溢价 - 25e16e3c.md"
+        ]
+      },
+      {
+        "prompt_hash": "66f7a33b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Global Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff 通胀二次爆发下的资产配置建议 - 8b9b3699.md"
+        ]
+      },
+      {
+        "prompt_hash": "59d43b69",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/权益策略/首席策略师/2026-05-14 - auto-handoff 量子 basket 配置盘 v - ac47aa5c.md"
+        ]
       }
-    ],
-    "skeleton_hash": "495d22ac"
+    ]
   },
   "Data Scientist (数据科学家)": {
-    "expertise": "Owns the institute's shared-data layer: ingest authoritative market / macro / flow numerics into shared-data/<date>/<topic>.json daily; audit how analysts consume data; flag misuse; propose catalog additions. Anchors the INPUT side of report quality, complementing QA Manager (OUTPUT audit) and Institute Diagnostician (fleet health).",
+    "expertise": "Owns the institute's shared-data layer: ingest authoritative market / macro / flow numerics into shared-data/<date>/<topic>.json daily; audit how analysts consume data; flag misuse; propose catalog additions. Anchors the INPUT side of report quality, complementing QA Manager (OUTPUT audit) and Institute Diagnostician (fleet health)..",
     "runs": 3,
     "file": "Data_Scientist_数据科学家.md",
+    "prompt_versions": 3,
     "versions": [
       {
-        "skeleton_hash": "14584a82",
-        "runs": 3
+        "prompt_hash": "e631f74a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Factor Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/综合编审/数据科学家/2026-05-09 - auto-handoff Stock Connect net-flow data decomposition - d01f125e.md"
+        ]
+      },
+      {
+        "prompt_hash": "cca44993",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Factor Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/综合编审/数据科学家/2026-05-09 - auto-handoff Wind FactSet Choice consensus estimates - 4ff30d90.md"
+        ]
+      },
+      {
+        "prompt_hash": "ba789625",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/综合编审/数据科学家/2026-05-10 - auto-handoff 2026-05-08 Margin Industry Inflow Data - 78a9e214.md"
+        ]
       }
-    ],
-    "skeleton_hash": "14584a82"
+    ]
   },
   "TMT Analyst (TMT行业分析师)": {
     "expertise": "Semiconductors, AI, cloud, consumer electronics, internet.",
     "runs": 43,
     "file": "TMT_Analyst_TMT行业分析师.md",
+    "prompt_versions": 43,
     "versions": [
       {
-        "skeleton_hash": "aed1b71b",
-        "runs": 43
+        "prompt_hash": "c31f667f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Convertible Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-09 - auto-handoff 半导体设备 集成电路 锂行业5 - 22ab1a61.md"
+        ]
+      },
+      {
+        "prompt_hash": "365ca7c4",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Morning Brief Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-10 - auto-handoff AI 估值门槛评估 - cf109717.md"
+        ]
+      },
+      {
+        "prompt_hash": "f2bf1902",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-10 - auto-handoff AMD MI300X 供应与竞争格局 - 950ceb96.md"
+        ]
+      },
+      {
+        "prompt_hash": "06d5537d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-10 - auto-handoff DeepSeek融资后的国产算 - 3c23af9d.md"
+        ]
+      },
+      {
+        "prompt_hash": "196b0d9a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Institute Diagnostician",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-10 - auto-handoff MSFT FY26全年CapEx 190B数字来源核实 - d859a8f4.md"
+        ]
+      },
+      {
+        "prompt_hash": "495b815a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-10 - auto-handoff Map AI app share migration to revenue sensitivity - 39edb126.md"
+        ]
+      },
+      {
+        "prompt_hash": "fcb0ab27",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Research Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-10 - auto-handoff Microsoft Intelligent Cloud Q3 FY26 分部经营利润率补全 - 3045a921.md"
+        ]
+      },
+      {
+        "prompt_hash": "48e99b2e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Derivatives Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-10 - auto-handoff Verify semiconductor dispersion and event volatility - 3fd01150.md"
+        ]
+      },
+      {
+        "prompt_hash": "847e695b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff AI Adopters Margin Regression Analysis - c42b5a8b.md"
+        ]
+      },
+      {
+        "prompt_hash": "4a40ebb0",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Energy Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff AI Data Center Power Needs - ee29c175.md"
+        ]
+      },
+      {
+        "prompt_hash": "aa20f41b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff AI Infrastructure Power Supply - 95d8a045.md"
+        ]
+      },
+      {
+        "prompt_hash": "9992213d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff AI 采用者 Adopters - 93a6ee16.md"
+        ]
+      },
+      {
+        "prompt_hash": "ee1b02b1",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff AI商业化与融资对产业链的影响 - d391cb97.md"
+        ]
+      },
+      {
+        "prompt_hash": "a0e98c20",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff AI硬件供应链调研 - e4b2dbf1.md"
+        ]
+      },
+      {
+        "prompt_hash": "584490aa",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff BABA Qwen 3.5 Competitive Moat - 6a9b6eee.md"
+        ]
+      },
+      {
+        "prompt_hash": "b9bc20b6",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff DeepSeek 500亿融资真实性核实 - 81d1061c.md"
+        ]
+      },
+      {
+        "prompt_hash": "e3a722b6",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Economist",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff DeepSeek V4 算力需求 - a5110b17.md"
+        ]
+      },
+      {
+        "prompt_hash": "c6c1356a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from HK/US Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff Hardware Bottlenecks for Agentic AI - 94d683ab.md"
+        ]
+      },
+      {
+        "prompt_hash": "25cadbde",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Social Media Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff Huawei AgentArts Catalyst - b7e21b7d.md"
+        ]
+      },
+      {
+        "prompt_hash": "3517d664",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from HK/US Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff JD Price War Impact - 137f6e6a.md"
+        ]
+      },
+      {
+        "prompt_hash": "3b8c9646",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from HK/US Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff JD Price War Impact - af248d2a.md"
+        ]
+      },
+      {
+        "prompt_hash": "ce581d5c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Factor Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff PCB 业绩弹性评估 - 7746e388.md"
+        ]
+      },
+      {
+        "prompt_hash": "697f1b64",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Compliance Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff PCB 概念合规审查 - e04cc457.md"
+        ]
+      },
+      {
+        "prompt_hash": "26da68b6",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from HK/US Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff 代理执行阶段的硬件瓶颈 - 63a35377.md"
+        ]
+      },
+      {
+        "prompt_hash": "37fa266a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Algo Trader",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff 半导体板块流动性溢价评估 - f3a43e70.md"
+        ]
+      },
+      {
+        "prompt_hash": "d61bfe1a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff 字节跳动资本支出分解 - 029bb555.md"
+        ]
+      },
+      {
+        "prompt_hash": "60d97ff0",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff 液冷技术范式迁移 - 8c131bec.md"
+        ]
+      },
+      {
+        "prompt_hash": "8672e0ee",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff 空运费率飙升对芯片供应链影响 - c9962b5b.md"
+        ]
+      },
+      {
+        "prompt_hash": "60ea4236",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Committee Chair",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-11 - auto-handoff 量子板块 OpEx 审计 - 6f43cb94.md"
+        ]
+      },
+      {
+        "prompt_hash": "7a44054d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-12 - auto-handoff Quantum Hardware Standardization Assessment - 105fb3a7.md"
+        ]
+      },
+      {
+        "prompt_hash": "87994ab7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-12 - auto-handoff 海外供应链财报指引核实 - fc9a964e.md"
+        ]
+      },
+      {
+        "prompt_hash": "dcf5de65",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-12 - auto-handoff 量子硬件标准化评估 - 8cdb15b5.md"
+        ]
+      },
+      {
+        "prompt_hash": "7ab671a1",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-13 - auto-handoff AI 估值阈值实时更新 - 2de40db7.md"
+        ]
+      },
+      {
+        "prompt_hash": "808c402e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-13 - auto-handoff AI基础设施估值偏离度 - 6b1717a5.md"
+        ]
+      },
+      {
+        "prompt_hash": "da211be7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-13 - auto-handoff ChiNext 4,000-Point Valuation Stress Test - 51d71bf4.md"
+        ]
+      },
+      {
+        "prompt_hash": "d49a3a11",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from A-Share Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-13 - auto-handoff 创业板4000点估值压力测试 - 944c1906.md"
+        ]
+      },
+      {
+        "prompt_hash": "f3fd5647",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Industrials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-13 - auto-handoff 高端机床芯片供应链 - dc4d0969.md"
+        ]
+      },
+      {
+        "prompt_hash": "4c9cdcbb",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-14 - auto-handoff AI Data Center Sensitivity to Copper Demand - 7bfc83f6.md"
+        ]
+      },
+      {
+        "prompt_hash": "733f988b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-14 - auto-handoff AI 数据中心对铜需求的敏感度 - c0798a4f.md"
+        ]
+      },
+      {
+        "prompt_hash": "72b9b198",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Consumer Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-14 - auto-handoff AI换新补贴对3C消费拉动测算 - 25d5c2d2.md"
+        ]
+      },
+      {
+        "prompt_hash": "bcaf05ae",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-14 - auto-handoff AI算力用电下降 - a269f277.md"
+        ]
+      },
+      {
+        "prompt_hash": "6cb222ff",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Industrials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-14 - auto-handoff 英伟达CEO访华传闻及AI硬件 - 9d40f60e.md"
+        ]
+      },
+      {
+        "prompt_hash": "80955043",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/TMT行业分析师/2026-05-14 - auto-handoff 访华传闻与AI硬件重定价 - 20e0cd32.md"
+        ]
       }
-    ],
-    "skeleton_hash": "aed1b71b"
+    ]
   },
   "Utilities Analyst (公用事业分析师)": {
     "expertise": "Power, water, environmental, carbon trading.",
     "runs": 6,
     "file": "Utilities_Analyst_公用事业分析师.md",
+    "prompt_versions": 6,
     "versions": [
       {
-        "skeleton_hash": "7d16bea1",
-        "runs": 6
+        "prompt_hash": "695c9591",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/公用事业分析师/2026-05-10 - auto-handoff TNB RP4 机制的负荷保护 - ea1998cc.md"
+        ]
+      },
+      {
+        "prompt_hash": "28105c8d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/公用事业分析师/2026-05-10 - auto-handoff 数据中心并网政策压力测试 - 08f92312.md"
+        ]
+      },
+      {
+        "prompt_hash": "3e3efe8d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from ESG Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/公用事业分析师/2026-05-11 - auto-handoff CEA价格口径同步 - f896c147.md"
+        ]
+      },
+      {
+        "prompt_hash": "55fec331",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/公用事业分析师/2026-05-11 - auto-handoff 独立供电方案的可行性 - c80c76ad.md"
+        ]
+      },
+      {
+        "prompt_hash": "5a08dc15",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Industrials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/公用事业分析师/2026-05-11 - auto-handoff 量子硬件能耗审计 - 90afbdd1.md"
+        ]
+      },
+      {
+        "prompt_hash": "bbb65e5e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/公用事业分析师/2026-05-12 - auto-handoff 核电与SMR数据中心协议 - c4a876df.md"
+        ]
       }
-    ],
-    "skeleton_hash": "7d16bea1"
+    ]
   },
   "Healthcare Analyst (医药行业分析师)": {
     "expertise": "Innovative drugs, CXO, medical devices, procurement policy.",
     "runs": 2,
     "file": "Healthcare_Analyst_医药行业分析师.md",
+    "prompt_versions": 2,
     "versions": [
       {
-        "skeleton_hash": "8fa6b46a",
-        "runs": 2
+        "prompt_hash": "66cc0d07",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/医药行业分析师/2026-05-11 - auto-handoff GLP-1 Oral Adoption - d9b3c7b5.md"
+        ]
+      },
+      {
+        "prompt_hash": "4f71dd67",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/医药行业分析师/2026-05-11 - auto-handoff in-vivo CAR T 商业化验证 - 20ee18f9.md"
+        ]
       }
-    ],
-    "skeleton_hash": "8fa6b46a"
+    ]
   },
   "Industrials Analyst (工业制造分析师)": {
     "expertise": "Advanced manufacturing, defense, machinery, aerospace.",
     "runs": 4,
     "file": "Industrials_Analyst_工业制造分析师.md",
+    "prompt_versions": 4,
     "versions": [
       {
-        "skeleton_hash": "7395567a",
-        "runs": 4
+        "prompt_hash": "434e3626",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Utilities Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/工业制造分析师/2026-05-11 - auto-handoff BDI 运价挤仓风险评估 - 37843f9a.md"
+        ]
+      },
+      {
+        "prompt_hash": "965611a2",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/工业制造分析师/2026-05-11 - auto-handoff Dry Bulk Fleet Capacity - 14565df7.md"
+        ]
+      },
+      {
+        "prompt_hash": "84f76611",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Energy Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/工业制造分析师/2026-05-11 - auto-handoff Solar Manufacturing Consolidation - da724d76.md"
+        ]
+      },
+      {
+        "prompt_hash": "d7bd48cf",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/工业制造分析师/2026-05-12 - auto-handoff 配电设备积压订单 - 92da41b0.md"
+        ]
       }
-    ],
-    "skeleton_hash": "7395567a"
+    ]
   },
   "Real Estate Analyst (房地产分析师)": {
     "expertise": "Property sales, land auctions, policy, REITs.",
     "runs": 1,
     "file": "Real_Estate_Analyst_房地产分析师.md",
+    "prompt_versions": 1,
     "versions": [
       {
-        "skeleton_hash": "97a352ef",
-        "runs": 1
+        "prompt_hash": "f53518de",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Credit Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/房地产分析师/2026-05-11 - auto-handoff 4-5月百强房企销售与白名单融 - 1b47a0da.md"
+        ]
       }
     ],
-    "skeleton_hash": "97a352ef"
+    "prompt_hash": "f53518de"
   },
   "Materials Analyst (材料行业分析师)": {
     "expertise": "Steel, chemicals, non-ferrous metals, battery materials.",
     "runs": 3,
     "file": "Materials_Analyst_材料行业分析师.md",
+    "prompt_versions": 3,
     "versions": [
       {
-        "skeleton_hash": "2243c438",
-        "runs": 3
+        "prompt_hash": "85bca675",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/材料行业分析师/2026-05-11 - auto-handoff Copper supply divergence - 771fc64c.md"
+        ]
+      },
+      {
+        "prompt_hash": "c8711b64",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from ESG Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/材料行业分析师/2026-05-11 - auto-handoff 钢铁 水泥碳成本压力测试 - 788c0324.md"
+        ]
+      },
+      {
+        "prompt_hash": "3c4c6a06",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from ESG Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/材料行业分析师/2026-05-11 - auto-handoff 钢铁 水泥行业 2026 履约 - f02bbbed.md"
+        ]
       }
-    ],
-    "skeleton_hash": "2243c438"
+    ]
   },
   "Consumer Analyst (消费行业分析师)": {
     "expertise": "Baijiu, F&B, retail, branded consumer goods.",
     "runs": 10,
     "file": "Consumer_Analyst_消费行业分析师.md",
+    "prompt_versions": 10,
     "versions": [
       {
-        "skeleton_hash": "18e262ae",
-        "runs": 10
+        "prompt_hash": "856ddc54",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Technical Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/消费行业分析师/2026-05-09 - auto-handoff XLY 放量滞涨信号：是否反映 - 54621dcb.md"
+        ]
+      },
+      {
+        "prompt_hash": "8ed4f5c2",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/消费行业分析师/2026-05-10 - auto-handoff Analyze granular traffic basket - f8731456.md"
+        ]
+      },
+      {
+        "prompt_hash": "b15a256e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/消费行业分析师/2026-05-10 - auto-handoff Granular traffic basket analysis - e6c6c6d2.md"
+        ]
+      },
+      {
+        "prompt_hash": "59c4ae6e",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/消费行业分析师/2026-05-11 - auto-handoff Discount retail SSS模型 vs. Placer 客流当前偏离 - a0b9ee3d.md"
+        ]
+      },
+      {
+        "prompt_hash": "205bdb4b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/消费行业分析师/2026-05-13 - auto-handoff LULU ULTA BBWI 信用卡面板转负的解读 - bd9eff3a.md"
+        ]
+      },
+      {
+        "prompt_hash": "bf012fa4",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/消费行业分析师/2026-05-13 - auto-handoff OTA Conversion Divergence - b9933243.md"
+        ]
+      },
+      {
+        "prompt_hash": "9eaa1c99",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/消费行业分析师/2026-05-13 - auto-handoff OTA转化率背离 - 12c13a5d.md"
+        ]
+      },
+      {
+        "prompt_hash": "530136bf",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/消费行业分析师/2026-05-14 - auto-handoff Bridge traffic to ticket for HD LOW and home-supply retail - 2e46327e.md"
+        ]
+      },
+      {
+        "prompt_hash": "91f69b0b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/消费行业分析师/2026-05-14 - auto-handoff Verifying US Retail Trade-down Trends - 908b88e6.md"
+        ]
+      },
+      {
+        "prompt_hash": "f08d01b0",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Alt Data Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/消费行业分析师/2026-05-14 - auto-handoff 美国零售消费降级趋势验证 - 21f426bd.md"
+        ]
       }
-    ],
-    "skeleton_hash": "18e262ae"
+    ]
   },
   "Energy Analyst (能源行业分析师)": {
     "expertise": "Oil, gas, coal, renewables, power generation.",
     "runs": 14,
     "file": "Energy_Analyst_能源行业分析师.md",
+    "prompt_versions": 14,
     "versions": [
       {
-        "skeleton_hash": "8cc2d878",
-        "runs": 14
+        "prompt_hash": "0f30b575",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from ESG Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-10 - auto-handoff Clean energy subsector performance analysis - 4ad36400.md"
+        ]
+      },
+      {
+        "prompt_hash": "137489bf",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Utilities Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-10 - auto-handoff Impact of NERC Level 3 alert on utility interconnection - f827d89a.md"
+        ]
+      },
+      {
+        "prompt_hash": "126431e0",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-11 - auto-handoff Energy Cost Impact on Aluminum Smelting - 5bc8ecf7.md"
+        ]
+      },
+      {
+        "prompt_hash": "2f7da2d6",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-11 - auto-handoff Hormuz Strait Blockage Risk Assessment - 95c6774c.md"
+        ]
+      },
+      {
+        "prompt_hash": "5ad8601a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-11 - auto-handoff Middle East Risk on Imported Inflation - 10cb3755.md"
+        ]
+      },
+      {
+        "prompt_hash": "46766324",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from FX Strategist",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-11 - auto-handoff 中东风险对输入性通胀的影响 - e452cd60.md"
+        ]
+      },
+      {
+        "prompt_hash": "b0a029c8",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-11 - auto-handoff 天然气调峰电站作为AI可靠性锚 - a3dc42b5.md"
+        ]
+      },
+      {
+        "prompt_hash": "37d95c94",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Materials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-11 - auto-handoff 能源成本对铝冶炼的影响 - 0666eff1.md"
+        ]
+      },
+      {
+        "prompt_hash": "0e1acee2",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Thematic Researcher",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-11 - auto-handoff 软银大阪电池厂效能 - a21d6eff.md"
+        ]
+      },
+      {
+        "prompt_hash": "a0af308b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Asset Allocator",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-11 - auto-handoff 量子计算 OpEx 敏感度 - c8bdf324.md"
+        ]
+      },
+      {
+        "prompt_hash": "fac8b4a2",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Quant",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-11 - auto-handoff 霍尔木兹海峡封锁风险评估 - e7ad66bd.md"
+        ]
+      },
+      {
+        "prompt_hash": "c4854a86",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Chief Economist",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-12 - auto-handoff Middle East energy supply and shipping disruption - fe05a78e.md"
+        ]
+      },
+      {
+        "prompt_hash": "17417be1",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Global Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-14 - auto-handoff Oil Price Persistence and SPR Depletion - 516c6936.md"
+        ]
+      },
+      {
+        "prompt_hash": "8b37bc12",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Global Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/能源行业分析师/2026-05-14 - auto-handoff 霍尔木兹海峡局势对油价的持续性 - d90d627d.md"
+        ]
       }
-    ],
-    "skeleton_hash": "8cc2d878"
+    ]
   },
   "Financials Analyst (金融行业分析师)": {
     "expertise": "Banks, insurance, brokers, fintech.",
     "runs": 5,
     "file": "Financials_Analyst_金融行业分析师.md",
+    "prompt_versions": 5,
     "versions": [
       {
-        "skeleton_hash": "5f606ee8",
-        "runs": 5
+        "prompt_hash": "92658623",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from ESG Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/金融行业分析师/2026-05-10 - auto-handoff Hong Kong sustainable bond market analysis - 5b42e0a4.md"
+        ]
+      },
+      {
+        "prompt_hash": "827afb55",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Credit Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/金融行业分析师/2026-05-11 - auto-handoff 中小行资产质量 - 4e6cb5c5.md"
+        ]
+      },
+      {
+        "prompt_hash": "51045c2c",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/金融行业分析师/2026-05-11 - auto-handoff 数字LGFV与AIDC资产减值 - 6949dcfb.md"
+        ]
+      },
+      {
+        "prompt_hash": "e6b1d499",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Industrials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/金融行业分析师/2026-05-13 - auto-handoff 工业园区融资瓶颈 - 191e3697.md"
+        ]
+      },
+      {
+        "prompt_hash": "20e56052",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Daily Report Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/行业研究/金融行业分析师/2026-05-14 - auto-handoff DeepSeek V4 成本模 - c78cd324.md"
+        ]
       }
-    ],
-    "skeleton_hash": "5f606ee8"
+    ]
   },
   "Factor Analyst (因子研究员)": {
     "expertise": "Value, momentum, quality, volatility factors.",
     "runs": 3,
     "file": "Factor_Analyst_因子研究员.md",
+    "prompt_versions": 3,
     "versions": [
       {
-        "skeleton_hash": "a6a8f091",
-        "runs": 3
+        "prompt_hash": "2df6273f",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Algo Trader",
+        "sample_runs": [
+          "AI Institute/Mailbox/量化与技术/因子研究员/2026-05-11 - auto-handoff 量子组合因子拥挤度 - 2cb1713c.md"
+        ]
+      },
+      {
+        "prompt_hash": "2e9fa0c9",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/量化与技术/因子研究员/2026-05-14 - auto-handoff AI Factor Crowding Decomposition - 3bd0dd5f.md"
+        ]
+      },
+      {
+        "prompt_hash": "4e8dc2e7",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/量化与技术/因子研究员/2026-05-14 - auto-handoff AI Factor Crowding Decomposition - 7fdd276f.md"
+        ]
       }
-    ],
-    "skeleton_hash": "a6a8f091"
+    ]
   },
   "Technical Analyst (技术分析师)": {
     "expertise": "Chart patterns, MA systems, volume-price, Elliott waves.",
     "runs": 1,
     "file": "Technical_Analyst_技术分析师.md",
+    "prompt_versions": 1,
     "versions": [
       {
-        "skeleton_hash": "c9f4f7ff",
-        "runs": 1
+        "prompt_hash": "3a82418a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Research Editor",
+        "sample_runs": [
+          "AI Institute/Mailbox/量化与技术/技术分析师/2026-05-11 - auto-handoff A股指数点位冲突裁定 - 61e3f395.md"
+        ]
       }
     ],
-    "skeleton_hash": "c9f4f7ff"
+    "prompt_hash": "3a82418a"
   },
   "Credit Analyst (信用分析师)": {
     "expertise": "Credit ratings, default warnings, LGFV bonds, property bonds.",
     "runs": 6,
     "file": "Credit_Analyst_信用分析师.md",
+    "prompt_versions": 6,
     "versions": [
       {
-        "skeleton_hash": "d3689ba3",
-        "runs": 6
+        "prompt_hash": "7f1173f1",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Convertible Bond Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/风控与合规/信用分析师/2026-05-09 - auto-handoff 低价可转债信用跟踪（ 90元桶 - a1eebce9.md"
+        ]
+      },
+      {
+        "prompt_hash": "6c6ae3f5",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from China Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/风控与合规/信用分析师/2026-05-11 - auto-handoff LGFV Regional Spread Divergence Study - e1fef148.md"
+        ]
+      },
+      {
+        "prompt_hash": "c3f4e068",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from China Macro Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/风控与合规/信用分析师/2026-05-11 - auto-handoff LGFV区域利差背离研究 - 0c4b5c35.md"
+        ]
+      },
+      {
+        "prompt_hash": "97e4e0bc",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Financials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/风控与合规/信用分析师/2026-05-11 - auto-handoff Regional bank NIM vs NPL formation - 260a150f.md"
+        ]
+      },
+      {
+        "prompt_hash": "d841223d",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Real Estate Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/风控与合规/信用分析师/2026-05-11 - auto-handoff 万科债券异动分析 - 07b284f4.md"
+        ]
+      },
+      {
+        "prompt_hash": "509c5461",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Financials Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/风控与合规/信用分析师/2026-05-11 - auto-handoff 弱区域城投利差分析 - 03ab8c97.md"
+        ]
       }
-    ],
-    "skeleton_hash": "d3689ba3"
+    ]
   },
   "Compliance Officer (合规官)": {
     "expertise": "Regulatory policy, trading compliance, disclosure, insider trading.",
     "runs": 1,
     "file": "Compliance_Officer_合规官.md",
+    "prompt_versions": 1,
     "versions": [
       {
-        "skeleton_hash": "462cad7f",
-        "runs": 1
+        "prompt_hash": "de7e56c1",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from ESG Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/风控与合规/合规官/2026-05-10 - auto-handoff ESG disclosure regulatory landscape update - b0b22966.md"
+        ]
       }
     ],
-    "skeleton_hash": "462cad7f"
+    "prompt_hash": "de7e56c1"
   },
   "Chief Risk Officer (首席风控官)": {
     "expertise": "Portfolio risk, stress tests, VaR, tail risk.",
     "runs": 5,
     "file": "Chief_Risk_Officer_首席风控官.md",
+    "prompt_versions": 5,
     "versions": [
       {
-        "skeleton_hash": "099b9243",
-        "runs": 5
+        "prompt_hash": "06e6f349",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Compliance Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/风控与合规/首席风控官/2026-05-11 - auto-handoff AI算力国产替代主题集中度压力 - 9708386e.md"
+        ]
+      },
+      {
+        "prompt_hash": "5e1f930a",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Compliance Officer",
+        "sample_runs": [
+          "AI Institute/Mailbox/风控与合规/首席风控官/2026-05-11 - auto-handoff 中小行信用传染测试 - ceb2a037.md"
+        ]
+      },
+      {
+        "prompt_hash": "876f1f4b",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Algo Trader",
+        "sample_runs": [
+          "AI Institute/Mailbox/风控与合规/首席风控官/2026-05-11 - auto-handoff 高溢价ETF流动性压力测试 - 0f1c30df.md"
+        ]
+      },
+      {
+        "prompt_hash": "c0f51efd",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Sentiment Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/风控与合规/首席风控官/2026-05-13 - auto-handoff 杠杆资金风险压力测试 - 4ac972c7.md"
+        ]
+      },
+      {
+        "prompt_hash": "ddf44c01",
+        "runs": 1,
+        "task_summary": "# Incoming coordination request from Factor Analyst",
+        "sample_runs": [
+          "AI Institute/Mailbox/风控与合规/首席风控官/2026-05-14 - auto-handoff COR3M threshold monitoring - 190f55af.md"
+        ]
       }
-    ],
-    "skeleton_hash": "099b9243"
+    ]
   }
 }

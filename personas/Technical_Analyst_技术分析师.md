@@ -3,12 +3,17 @@
 **Expertise:** Chart patterns, MA systems, volume-price, Elliott waves.
 
 **Mailbox runs:** 1
+**Prompt versions:** 1
 
-## Prompt skeleton
+Each prompt version below preserves the original `# Task` section from its mailbox input so every archived prompt can be traced back to its source run.
 
-**Skeleton hash:** `c9f4f7ff` (based on 1 mailbox runs)
+## Full prompt
 
-```text
+**Prompt hash:** `3a82418a` (based on 1 mailbox run)
+
+**Task summary:** # Incoming coordination request from Research Editor
+
+````text
 # Step −1 — Anchor today's date BEFORE you start
 
 Run this in your shell and record the result:
@@ -34,7 +39,15 @@ Chart patterns, MA systems, volume-price, Elliott waves.
 - Do NOT echo the deliverables' full content in your chat reply. The reply is the confirmation line only; the deliverables live in the files.
 
 # Task
-[task-specific context removed]
+# Incoming coordination request from Research Editor
+Source workflow: 深研主编 · 每日投研碰头会 (analyst:research-editor:daily_meetup)
+Source run: 156cf250-b330-4925-ab0c-2551ab726ef4
+
+# The question
+请核实今日上证指数真实点位。当前报告中存在 3126.82 (-1.00%) 与 4219.13 (+0.94%) 两个冲突读数，请给出权威终端确认值。
+
+# Your task
+Investigate the question above using your domain expertise. Produce a focused, evidence-backed answer suitable for the requesting analyst's next step. Lead with conclusions; back them with specific data, source citations, and concrete numbers where possible.
 
 # Output Format
 - Write BOTH `handoff_response.md` and `handoff_response.en.md` using structured Markdown: clear headings, prioritised conclusions, supporting tables, follow-up items.
@@ -50,8 +63,8 @@ Chart patterns, MA systems, volume-price, Elliott waves.
 # Workspace Robustness
 - BEFORE running your task, try to read any files this prompt references (using your workspace-list / read-file tool). If a referenced file is missing because an earlier step failed to write it, do NOT abort. Search the conversation context above for the prior step's full output and use that as the source. State explicitly in your confirmation line which referenced files were missing and reconstructed from context.
 - Continue and complete this step's deliverable regardless of upstream file gaps. Always write your own declared output file even if upstream files were missing.
-```
+````
 
-### Sample runs
+### Source mailbox runs
 
 - `AI Institute/Mailbox/量化与技术/技术分析师/2026-05-11 - auto-handoff A股指数点位冲突裁定 - 61e3f395.md`

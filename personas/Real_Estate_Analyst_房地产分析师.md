@@ -3,12 +3,17 @@
 **Expertise:** Property sales, land auctions, policy, REITs.
 
 **Mailbox runs:** 1
+**Prompt versions:** 1
 
-## Prompt skeleton
+Each prompt version below preserves the original `# Task` section from its mailbox input so every archived prompt can be traced back to its source run.
 
-**Skeleton hash:** `97a352ef` (based on 1 mailbox runs)
+## Full prompt
 
-```text
+**Prompt hash:** `f53518de` (based on 1 mailbox run)
+
+**Task summary:** # Incoming coordination request from Credit Analyst
+
+````text
 # Step −1 — Anchor today's date BEFORE you start
 
 Run this in your shell and record the result:
@@ -34,7 +39,15 @@ Property sales, land auctions, policy, REITs.
 - Do NOT echo the deliverables' full content in your chat reply. The reply is the confirmation line only; the deliverables live in the files.
 
 # Task
-[task-specific context removed]
+# Incoming coordination request from Credit Analyst
+Source workflow: 信用分析师 · 信用观察名单 (analyst:credit-analyst:credit_watch_list)
+Source run: 7c8840f2-7f58-4203-bddf-1969befbd5d8
+
+# The question
+请基于克而瑞4月数据和5月前两周高频销售跟踪，给出（1）TOP30房企中民企与混合所有制主体的销售环比恢复情况；（2）'白名单'融资协调机制下，除龙湖、新城外是否还有2-3家民营/混合所有制房企的境内增信发行可能在6月前落地？这关系到我对地产信用债板块是否保留任何民营敞口的判断。
+
+# Your task
+Investigate the question above using your domain expertise. Produce a focused, evidence-backed answer suitable for the requesting analyst's next step. Lead with conclusions; back them with specific data, source citations, and concrete numbers where possible.
 
 # Output Format
 - Write BOTH `handoff_response.md` and `handoff_response.en.md` using structured Markdown: clear headings, prioritised conclusions, supporting tables, follow-up items.
@@ -50,8 +63,8 @@ Property sales, land auctions, policy, REITs.
 # Workspace Robustness
 - BEFORE running your task, try to read any files this prompt references (using your workspace-list / read-file tool). If a referenced file is missing because an earlier step failed to write it, do NOT abort. Search the conversation context above for the prior step's full output and use that as the source. State explicitly in your confirmation line which referenced files were missing and reconstructed from context.
 - Continue and complete this step's deliverable regardless of upstream file gaps. Always write your own declared output file even if upstream files were missing.
-```
+````
 
-### Sample runs
+### Source mailbox runs
 
 - `AI Institute/Mailbox/行业研究/房地产分析师/2026-05-11 - auto-handoff 4-5月百强房企销售与白名单融 - 1b47a0da.md`
